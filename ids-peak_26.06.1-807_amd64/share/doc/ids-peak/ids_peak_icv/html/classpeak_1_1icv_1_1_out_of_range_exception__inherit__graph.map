@@ -1,0 +1,14 @@
+<map id="OutOfRangeException" name="OutOfRangeException">
+<area shape="rect" id="Node000001" title="Occurs when a provided value falls outside the allowed valid range." alt="" coords="41,299,206,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,259,112,296,108,300,70,262"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="80,152,167,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,189,64,227,60,223,99,185"/>
+<area shape="rect" id="Node000006" href="$classpeak_1_1common_1_1_out_of_range_exception.html" title="Thrown when a parameter is outside the valid range." alt="" coords="117,225,282,251"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="148,185,188,223,184,227,144,189"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="68,79,179,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,118,126,152,121,152,121,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="80,5,167,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="126,44,126,78,121,78,121,44"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,262,139,300,135,296,175,258"/>
+</map>

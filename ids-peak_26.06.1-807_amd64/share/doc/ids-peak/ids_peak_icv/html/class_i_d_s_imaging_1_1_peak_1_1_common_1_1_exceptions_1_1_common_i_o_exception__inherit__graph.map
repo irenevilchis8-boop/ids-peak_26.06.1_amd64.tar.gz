@@ -1,0 +1,9 @@
+<map id="CommonIOException" name="CommonIOException">
+<area shape="rect" id="Node000001" title="Exception thrown when an I/O operation fails." alt="" coords="88,152,247,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="5,79,151,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,111,153,149,150,154,102,115"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,81,78,75,78,75,44"/>
+<area shape="rect" id="Node000004" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_i_common_i_o_exception.html" title="Marker interface for exceptions indicating an I/O failure." alt="" coords="175,79,338,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,115,185,154,182,149,229,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ImageViewBase" name="ImageViewBase">
+<area shape="rect" id="Node000001" title="Abstract base class for IImageView implementations, providing common shared logic." alt="" coords="5,79,132,104"/>
+<area shape="rect" id="Node000002" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_i_image_view.html" title="Interface for viewing image pixel data from arbitrary sources." alt="" coords="19,5,118,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,78,66,78,66,44"/>
+</map>

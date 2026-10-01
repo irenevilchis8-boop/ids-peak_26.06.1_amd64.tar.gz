@@ -1,0 +1,9 @@
+#!/bin/bash
+
+[ "$0" != "$BASH_SOURCE" ] && SOURCED=1 || SOURCED=0
+export IDS_PEAK_PATH=$(readlink -f "$(dirname "$BASH_SOURCE")")
+export LD_LIBRARY_PATH=${ids_peak_LIBS}:$LD_LIBRARY_PATH
+export GENICAM_GENTL32_PATH=$GENICAM_GENTL32_PATH:${ids_peak_LIBS}/../ids/cti
+export GENICAM_GENTL64_PATH=$GENICAM_GENTL64_PATH:${ids_peak_LIBS}/../ids/cti
+
+[ "$SOURCED" -eq 0 ] && $IDS_PEAK_PATH/${TARGET_BINARY_NAME} "$@"

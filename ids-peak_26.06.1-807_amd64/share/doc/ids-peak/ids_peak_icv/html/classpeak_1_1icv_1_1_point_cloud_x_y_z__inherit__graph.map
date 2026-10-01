@@ -1,0 +1,9 @@
+<map id="PointCloudXYZ" name="PointCloudXYZ">
+<area shape="rect" id="Node000001" title="Represents a point cloud consisting of points with x, y, and z coordinates." alt="" coords="531,60,649,85"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1detail_1_1_point_cloud.html" title=" " alt="" coords="276,53,483,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,70,530,70,530,75,496,75"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="5,5,228,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,49,276,54,275,60,241,54"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_exchangeable.html" title=" " alt="" coords="5,84,228,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="241,90,275,85,276,91,242,96"/>
+</map>

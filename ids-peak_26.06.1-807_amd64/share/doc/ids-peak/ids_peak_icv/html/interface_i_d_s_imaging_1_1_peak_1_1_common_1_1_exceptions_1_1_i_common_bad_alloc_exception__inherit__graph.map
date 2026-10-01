@@ -1,0 +1,5 @@
+<map id="ICommonBadAllocException" name="ICommonBadAllocException">
+<area shape="rect" id="Node000001" title="Marker interface for exceptions indicating a memory allocation failure." alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_bad_alloc_exception.html" title="Exception thrown when a memory allocation failure occurs." alt="" coords="7,79,210,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,44,111,78,106,78,106,44"/>
+</map>

@@ -1,0 +1,26 @@
+var classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus =
+[
+    [ "BasicAutoFocus", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#adea72f78239f7572653549706ba9f451", null ],
+    [ "~BasicAutoFocus", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#aeb3041717170abee04533cd4d84f3862", null ],
+    [ "GetFocusLimit", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#ac7f0b3abff3e4591c1dff8c61c4b7afb", null ],
+    [ "GetHysteresis", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a5d69fb5f8d878e339a063acd193995be", null ],
+    [ "GetHysteresisRange", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a79843f92f2c5d3d9762c6846c4a234b9", null ],
+    [ "GetMode", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a6ddd5ec7589bd8aac9f1cec196b617b4", null ],
+    [ "GetSearchAlgorithm", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a9566d1c413c32e85b9b01a25ade71b39", null ],
+    [ "GetSharpnessAlgorithm", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a16a87a20102f46c30c000361d41133ff", null ],
+    [ "GetSkipFrames", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a75ea3bbc421f0d6d0208c05a36092c2f", null ],
+    [ "GetSkipFramesRange", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a31e8d4f93fd0f6e3a2dab8ecbd9ebfdf", null ],
+    [ "GetWeightedROIs", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#ad57d6d7e3b289d6237242361288e8286", null ],
+    [ "IsRunning", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#aec2413c96e986b97e8f6e6e7eaaaeac0", null ],
+    [ "RegisterFinishedCallback", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#ab6927c3be176983b358a44ae80433126", null ],
+    [ "ResetToDefault", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#ae41a95bafc53c5dba0c167835df9bb04", null ],
+    [ "ResetWeightedROIs", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a11bf6da0090d3fa791bed65c69953bbb", null ],
+    [ "SetFocusLimit", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a8a1e7ef83bc8c6a08c337a1655fb4a98", null ],
+    [ "SetHysteresis", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#abf4351420547e1dae463dfd0ce71ce3e", null ],
+    [ "SetMode", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#aba2c8b82c83ebc7a20caf3eeaa662a44", null ],
+    [ "SetSearchAlgorithm", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#afcdcdfc7749ca0a972afc003a567b422", null ],
+    [ "SetSharpnessAlgorithm", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a4dc955c94faeffbe83c48d1e9d6cecd6", null ],
+    [ "SetSkipFrames", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#acb625a71e2af74f6c1fd956fae4d1e85", null ],
+    [ "SetWeightedROIs", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a28fd14600eb7770e05e0e07b62a87987", null ],
+    [ "UnregisterFinishedCallback", "classpeak_1_1pipeline_1_1modules_1_1autofeature_1_1_basic_auto_focus.html#a216051534d5a477402938d0265340396", null ]
+];

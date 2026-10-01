@@ -1,0 +1,11 @@
+<map id="PixelFormat" name="PixelFormat">
+<area shape="rect" id="Node000001" title="Enum listing all supported pixel formats and their internal IDs." alt="" coords="83,152,183,177"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,110,117,149,114,154,61,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,79,178,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,118,136,152,131,152,131,118"/>
+<area shape="rect" id="Node000004" href="$classpython__interface__common_1_1datatypes_1_1pixelformat_1_1_deprecated_enum_meta.html" title=" " alt="" coords="202,79,369,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,112,161,154,159,149,246,108"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="240,5,331,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="288,44,288,78,283,78,283,44"/>
+</map>

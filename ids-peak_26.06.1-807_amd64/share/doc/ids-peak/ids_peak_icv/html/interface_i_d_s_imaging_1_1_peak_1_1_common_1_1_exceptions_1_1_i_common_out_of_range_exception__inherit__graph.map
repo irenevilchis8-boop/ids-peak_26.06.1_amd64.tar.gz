@@ -1,0 +1,7 @@
+<map id="ICommonOutOfRangeException" name="ICommonOutOfRangeException">
+<area shape="rect" id="Node000001" title="Marker interface for exceptions indicating an out&#45;of&#45;range condition." alt="" coords="117,5,345,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_out_of_range_exception.html" title="Exception thrown when a value is outside the valid range." alt="" coords="5,79,229,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,139,81,136,76,198,36"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_out_of_range_exception.html" title="Occurs when a provided value falls outside the allowed valid range." alt="" coords="253,79,437,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,36,327,76,324,81,261,41"/>
+</map>

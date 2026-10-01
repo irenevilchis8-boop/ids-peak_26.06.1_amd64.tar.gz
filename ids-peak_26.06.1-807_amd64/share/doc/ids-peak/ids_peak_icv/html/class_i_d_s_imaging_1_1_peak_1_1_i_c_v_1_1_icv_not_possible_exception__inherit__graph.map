@@ -1,0 +1,9 @@
+<map id="IcvNotPossibleException" name="IcvNotPossibleException">
+<area shape="rect" id="Node000001" title="Occurs when an operation cannot be performed due to logical constraints (e.g., camera calibration wit..." alt="" coords="5,225,188,251"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="44,152,149,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,191,99,225,94,225,94,191"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="24,79,169,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,118,99,152,94,152,94,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="53,5,140,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,44,99,78,94,78,94,44"/>
+</map>

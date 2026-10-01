@@ -1,0 +1,11 @@
+<map id="IOException" name="IOException">
+<area shape="rect" id="Node000001" title="Thrown when an input, output, file or device communication error occurs." alt="" coords="11,225,111,251"/>
+<area shape="rect" id="Node000005" href="$classpeak_1_1icv_1_1_i_o_exception.html" title="Occurs when a file operation fails (e.g., missing file, insufficient permissions, or inaccessible dir..." alt="" coords="11,299,111,324"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="63,264,63,298,58,298,58,264"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="17,152,104,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,191,63,225,58,225,58,191"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,79,116,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,118,63,152,58,152,58,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="17,5,104,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="63,44,63,78,58,78,58,44"/>
+</map>

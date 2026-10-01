@@ -1,0 +1,9 @@
+<map id="CommonNotSupportedException" name="CommonNotSupportedException">
+<area shape="rect" id="Node000001" title="Exception thrown when an operation is not supported." alt="" coords="69,152,303,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="5,79,151,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,110,169,150,166,154,107,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,81,78,75,78,75,44"/>
+<area shape="rect" id="Node000004" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_i_common_not_supported_exception.html" title="Marker interface for exceptions indicating an unsupported operation." alt="" coords="175,79,413,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,114,206,154,203,150,262,110"/>
+</map>

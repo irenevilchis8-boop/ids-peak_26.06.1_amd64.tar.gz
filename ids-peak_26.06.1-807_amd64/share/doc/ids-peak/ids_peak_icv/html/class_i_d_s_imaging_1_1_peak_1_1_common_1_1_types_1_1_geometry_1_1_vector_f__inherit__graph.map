@@ -1,0 +1,7 @@
+<map id="VectorF" name="VectorF">
+<area shape="rect" id="Node000001" title="Represents a 2D vector with floating&#45;point values." alt="" coords="31,152,102,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_point_f.html" title="Represents a 2D point with floating&#45;point coordinates." alt="" coords="35,79,98,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,118,69,152,64,152,64,118"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_detail_1_1_point_t.html" title=" " alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,44,69,78,64,78,64,44"/>
+</map>

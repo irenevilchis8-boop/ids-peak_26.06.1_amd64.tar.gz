@@ -1,0 +1,7 @@
+<map id="ICommonIOException" name="ICommonIOException">
+<area shape="rect" id="Node000001" title="Marker interface for exceptions indicating an I/O failure." alt="" coords="85,5,247,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_i_o_exception.html" title="Exception thrown when an I/O operation fails." alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,42,101,80,97,76,140,38"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_i_o_exception.html" title="Occurs when a file operation fails (e.g., missing file, insufficient permissions, or inaccessible dir..." alt="" coords="188,79,307,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,38,235,76,231,80,189,42"/>
+</map>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="181" height="181" viewBox="-0.5 -0.5 181 181" id="svg-region-union"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path id="gridLine" d="M 0,0 H 180" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+    </defs>
+    <g id="grid">
+        <rect x="0" y="0" width="180" height="180" fill="#ffffff"/>
+        <use href="#gridLine" id="lineH1"/>
+        <use href="#gridLine" transform="rotate(90)" id="lineV1"/>
+        <use href="#gridLine" transform="translate(0,30)" id="lineH2"/>
+        <use href="#gridLine" transform="rotate(90,15,15)" id="lineV2"/>
+        <use href="#gridLine" transform="translate(0,60)" id="lineH3"/>
+        <use href="#gridLine" transform="rotate(90,30,30)" id="lineV3"/>
+        <use href="#gridLine" transform="translate(0,90)" id="lineH4"/>
+        <use href="#gridLine" transform="rotate(90,45,45)" id="lineV4"/>
+        <use href="#gridLine" transform="translate(0,120)" id="lineH5"/>
+        <use href="#gridLine" transform="rotate(90,60,60)" id="lineV5"/>
+        <use href="#gridLine" transform="translate(0,150)" id="lineH6"/>
+        <use href="#gridLine" transform="rotate(90,75,75)" id="lineV6"/>
+        <use href="#gridLine" transform="translate(0,180)" id="lineH7"/>
+        <use href="#gridLine" transform="rotate(90,90,90)" id="lineV7"/>
+    </g>
+    <g id="region-square">
+        <path d="m 30,30 h 90 v 60 h 30 v 60 h -90 v -30 h -30 z"
+              fill="#1982d2" fill-opacity="0.3" stroke="#1982d2" stroke-width="2" id="differenceAB"/>
+    </g>
+</svg>

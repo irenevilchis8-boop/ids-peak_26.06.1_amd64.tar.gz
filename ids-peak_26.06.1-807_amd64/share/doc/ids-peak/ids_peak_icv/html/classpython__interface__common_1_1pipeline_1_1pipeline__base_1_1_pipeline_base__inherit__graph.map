@@ -1,0 +1,7 @@
+<map id="PipelineBase" name="PipelineBase">
+<area shape="rect" id="Node000001" title="Base class for implementing a custom pipeline." alt="" coords="35,79,142,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,41,83,77,79,80,57,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="108,5,157,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,44,99,80,94,77,116,41"/>
+</map>

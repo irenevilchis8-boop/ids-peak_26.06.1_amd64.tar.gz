@@ -1,0 +1,11 @@
+<map id="IcvNotSupportedException" name="IcvNotSupportedException">
+<area shape="rect" id="Node000001" title="Occurs when a requested operation is not implemented or supported (e.g., exporting to an unsupported ..." alt="" coords="78,225,273,251"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="25,152,131,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,183,160,223,156,227,104,188"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="5,79,151,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,118,81,152,75,152,75,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="35,5,121,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,44,81,78,75,78,75,44"/>
+<area shape="rect" id="Node000005" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_i_common_not_supported_exception.html" title="Marker interface for exceptions indicating an unsupported operation." alt="" coords="155,152,393,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="247,188,195,227,191,223,244,183"/>
+</map>

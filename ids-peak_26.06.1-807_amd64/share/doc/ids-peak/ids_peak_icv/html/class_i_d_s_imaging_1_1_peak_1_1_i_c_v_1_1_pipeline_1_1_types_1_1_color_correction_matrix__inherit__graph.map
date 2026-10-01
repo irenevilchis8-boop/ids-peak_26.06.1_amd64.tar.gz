@@ -1,0 +1,7 @@
+<map id="ColorCorrectionMatrix" name="ColorCorrectionMatrix">
+<area shape="rect" id="Node000001" title="Color correction matrix." alt="" coords="53,79,217,104"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_matrix.html" title=" " alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,39,124,76,121,80,86,43"/>
+<area shape="rect" id="Node000003" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="153,5,255,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,43,149,80,145,76,181,39"/>
+</map>

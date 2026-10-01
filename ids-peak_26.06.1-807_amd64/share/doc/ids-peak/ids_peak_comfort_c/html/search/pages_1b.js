@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['s_0',['Acquire frame(s)',['../group__chunks.html#autotoc_md48',1,'']]],
+  ['safety_1',['Strong Exception Safety',['../index.html#principle_strong_exception_safety',1,'']]],
+  ['settings_2',['Change auto brightness configuration settings',['../group__host__auto__brightness.html#autotoc_md10',1,'']]],
+  ['shutter_3',['shutter',['../group__shuttermode.html#autotoc_md64',1,'Global shutter'],['../group__shuttermode.html#autotoc_md65',1,'Rolling shutter']]],
+  ['simplified_20evaluation_20of_20an_20access_20status_4',['Simplified Evaluation of an Access Status',['../index.html#principle_access_status_query_simple',1,'']]],
+  ['skip_20frames_5',['Skip frames',['../group__host__auto__brightness.html#autotoc_md6',1,'']]],
+  ['software_20trigger_6',['Software Trigger',['../group__trigger.html#autotoc_md67',1,'']]],
+  ['specific_20return_20type_20and_20on_20error_20indication_20for_20access_20status_20queries_7',['On the specific return type and on error indication for access status queries',['../index.html#autotoc_md73',1,'']]],
+  ['specific_20return_20type_20and_20on_20error_20indication_20for_20boolean_20status_20queries_8',['On the specific return type and on error indication for boolean status queries',['../index.html#principle_boolean_status_queries_return_type',1,'']]],
+  ['specific_20return_20type_20and_20on_20error_20indication_20for_20camera_20id_20queries_9',['On the specific return type and on error indication for camera id queries',['../index.html#autotoc_md72',1,'']]],
+  ['speed_10',['Link Speed',['../group__bandwidth.html#autotoc_md13',1,'']]],
+  ['stage_20approach_11',['Alternative One Stage approach',['../index.html#autotoc_md71',1,'']]],
+  ['staged_20data_20query_12',['Two Staged Data Query',['../index.html#principle_two_stage_query',1,'']]],
+  ['status_13',['Status',['../index.html#term_access_status',1,'Access Status'],['../index.html#term_enabled_status',1,'Enabled Status'],['../index.html#principle_access_status_query_simple',1,'Simplified Evaluation of an Access Status']]],
+  ['status_20queries_14',['Boolean Status Queries',['../index.html#principle_boolean_status_queries',1,'']]],
+  ['status_20queries_15',['status queries',['../index.html#autotoc_md73',1,'On the specific return type and on error indication for access status queries'],['../index.html#principle_boolean_status_queries_return_type',1,'On the specific return type and on error indication for boolean status queries']]],
+  ['status_20query_16',['Status Query',['../index.html#principle_access_status_query',1,'Access Status Query'],['../index.html#principle_enabled_status_query',1,'Enabled Status Query']]],
+  ['strong_20exception_20safety_17',['Strong Exception Safety',['../index.html#principle_strong_exception_safety',1,'']]],
+  ['support_18',['Check for support',['../group__chunks.html#autotoc_md41',1,'']]],
+  ['supported_19',['Newer chunk types currently not supported',['../group__chunks.html#autotoc_md50',1,'']]],
+  ['supported_20image_20and_20pixel_20formats_20',['Supported image and pixel formats',['../group__imagewriter.html#autotoc_md52',1,'']]],
+  ['supported_20types_21',['Check for supported types',['../group__chunks.html#autotoc_md43',1,'']]]
+];

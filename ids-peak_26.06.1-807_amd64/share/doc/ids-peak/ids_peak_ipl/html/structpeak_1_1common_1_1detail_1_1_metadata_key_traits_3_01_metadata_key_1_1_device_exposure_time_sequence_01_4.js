@@ -1,0 +1,5 @@
+var structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_sequence_01_4 =
+[
+    [ "type", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_sequence_01_4.html#ab069301503311abefb992ca9c29aad1c", null ],
+    [ "Name", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_sequence_01_4.html#afea684b143aa35412e03b00852521871", null ]
+];

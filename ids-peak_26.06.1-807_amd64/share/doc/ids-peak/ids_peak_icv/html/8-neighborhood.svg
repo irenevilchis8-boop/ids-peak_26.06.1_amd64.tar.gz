@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="91" height="91" viewBox="-0.5 -0.5 91 91" id="svg-region"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path id="gridLine" d="M 0,0 H 90" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+        <circle id="dot" cx="15" cy="15" r="4" fill="#009900"/>
+    </defs>
+    <rect x="0" y="0" width="90" height="90" fill="#ffffff"/>
+    <use href="#gridLine" id="lineH1"/>
+    <use href="#gridLine" transform="rotate(90)" id="lineV1"/>
+    <use href="#gridLine" transform="translate(0,30)" id="lineH2"/>
+    <use href="#gridLine" transform="rotate(90,15,15)" id="lineV2"/>
+    <use href="#gridLine" transform="translate(0,60)" id="lineH3"/>
+    <use href="#gridLine" transform="rotate(90,30,30)" id="lineV3"/>
+    <use href="#gridLine" transform="translate(0,90)" id="lineH4"/>
+    <use href="#gridLine" transform="rotate(90,45,45)" id="lineV4"/>
+    <rect x="30" y="30" width="30" height="30" fill="#bf0000"/>
+    <use href="#dot"/>
+    <use href="#dot" transform="translate(30,0)"/>
+    <use href="#dot" transform="translate(60,0)"/>
+    <use href="#dot" transform="translate(0,30)"/>
+    <use href="#dot" transform="translate(60,30)"/>
+    <use href="#dot" transform="translate(0,60)"/>
+    <use href="#dot" transform="translate(30,60)"/>
+    <use href="#dot" transform="translate(60,60)"/>
+</svg>

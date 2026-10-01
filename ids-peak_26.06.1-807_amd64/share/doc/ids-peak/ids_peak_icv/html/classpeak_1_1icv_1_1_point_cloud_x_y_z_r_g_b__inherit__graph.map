@@ -1,0 +1,11 @@
+<map id="PointCloudXYZRGB" name="PointCloudXYZRGB">
+<area shape="rect" id="Node000001" title="Represents a point cloud consisting of points with x, y, z coordinates and RGB values." alt="" coords="905,60,1052,85"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1detail_1_1_point_cloud_x_y_z_overlay.html" title=" " alt="" coords="587,53,857,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="871,70,905,70,905,75,871,75"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_point_cloud.html" title=" " alt="" coords="304,53,539,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,70,587,70,587,75,553,75"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="5,5,256,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,49,304,54,303,59,269,54"/>
+<area shape="rect" id="Node000005" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_exchangeable.html" title=" " alt="" coords="5,84,256,139"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="269,90,303,86,304,91,270,96"/>
+</map>

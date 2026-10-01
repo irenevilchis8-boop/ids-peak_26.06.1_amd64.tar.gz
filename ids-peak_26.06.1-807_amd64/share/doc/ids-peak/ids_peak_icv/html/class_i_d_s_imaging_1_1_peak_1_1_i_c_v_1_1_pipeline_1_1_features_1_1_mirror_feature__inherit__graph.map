@@ -1,0 +1,5 @@
+<map id="MirrorFeature" name="MirrorFeature">
+<area shape="rect" id="Node000001" title="Mirror provides functionality to flip the image left&#45;right or up&#45;down." alt="" coords="5,79,113,104"/>
+<area shape="rect" id="Node000002" href="$interface_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="22,5,97,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,44,62,78,57,78,57,44"/>
+</map>

@@ -1,0 +1,16 @@
+# Ignored in general
+desktop-command-not-in-package
+# Ignored in general
+embedded-library
+# CMake bug: https://gitlab.kitware.com/cmake/cmake/-/issues/21834
+maintscript-calls-ldconfig
+# Ignored in general
+no-changelog
+# Ignored in general
+no-copyright-file
+# Ignored in general
+no-manual-page
+# Ignored in general
+package-name-doesnt-match-sonames
+# Ignored in general
+shared-library-lacks-version

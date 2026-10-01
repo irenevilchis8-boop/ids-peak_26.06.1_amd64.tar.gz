@@ -1,0 +1,7 @@
+<map id="CalibrationView" name="CalibrationView">
+<area shape="rect" id="Node000001" title="Represents a single observation of a calibration plate in an image." alt="" coords="113,93,239,119"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="5,5,160,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,53,163,91,159,95,115,57"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_exchangeable.html" title=" " alt="" coords="184,5,357,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,57,193,95,189,91,235,52"/>
+</map>

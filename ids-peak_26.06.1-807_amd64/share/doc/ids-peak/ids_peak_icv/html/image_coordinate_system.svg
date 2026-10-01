@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="368" height="278" viewBox="-0.5 -0.5 368 278" id="svg-image-coordinate-system"
+     xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text-pixel {
+        font-family: 'Courier New';
+        font-size: 9px;
+        text-anchor: middle;
+        }
+    </style>
+    <g transform="scale(1.5)">
+        <defs>
+            <polygon id="arrowTip" points="0,-1.12 -3.5,-8.12 0,-6.37 3.5,-8.12 "/>
+            <path id="hLine" d="M 20,20 h 210" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+            <path id="vLine" d="M 20,20 v 150" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+        </defs>
+        <rect id="image-plane" fill="#ececec" x="20" y="20" width="210" height="150"/>
+        <g id="pixel-grid">
+            <use href="#hLine" id="lineH1"/>
+            <use href="#hLine" transform="translate(0,30)" id="lineH2"/>
+            <use href="#hLine" transform="translate(0,60)" id="lineH3"/>
+            <use href="#hLine" transform="translate(0,90)" id="lineH4"/>
+            <use href="#hLine" transform="translate(0,120)" id="lineH5"/>
+            <use href="#hLine" transform="translate(0,150)" id="lineH6"/>
+            <use href="#vLine" id="lineV1"/>
+            <use href="#vLine" transform="translate(30)" id="lineV2"/>
+            <use href="#vLine" transform="translate(60)" id="lineV3"/>
+            <use href="#vLine" transform="translate(90)" id="lineV4"/>
+            <use href="#vLine" transform="translate(120)" id="lineV5"/>
+            <use href="#vLine" transform="translate(150)" id="lineV6"/>
+            <use href="#vLine" transform="translate(180)" id="lineV7"/>
+            <use href="#vLine" transform="translate(210)" id="lineV8"/>
+        </g>
+        <g id="axes">
+            <g id="y-axis">
+                <path id="y-axis-line" d="M 35,35 v 143" fill="none" stroke="#009900" stroke-width="1.5"
+                      stroke-linecap="round"/>
+                <use id="y-axis-arrow" href="#arrowTip" transform="translate(35,183)" style="fill:#009900"/>
+                <text id="y-axis-size"
+                      x="-95" y="14.5"
+                      font-family="'Courier New'" font-size="12px"
+                      text-anchor="middle" transform="rotate(-90)">
+                    Height = m + 1
+                </text>
+                <text id="y-text"
+                      fill="#009900"
+                      font-family="'Courier New'" font-size="12px" font-weight="bold"
+                      x="23" y="181">
+                    y
+                </text>
+            </g>
+            <g id="x-axis">
+                <path id="x-axis-line" d="M 35,35 h 203" fill="none" stroke="#bf0000" stroke-width="1.5"
+                      stroke-linecap="round"/>
+                <use id="x-axis-arrow" href="#arrowTip" transform="translate(243,35) rotate(-90)" style="fill:#bf0000"/>
+                <text id="x-axis-size"
+                      x="125" y="14.5"
+                      font-family="'Courier New'" font-size="12px"
+                      text-anchor="middle">
+                    Width = n + 1
+                </text>
+                <text id="x-text"
+                      fill="#bf0000"
+                      font-family="'Courier New'" font-size="12px" font-weight="bold"
+                      x="234" y="30">
+                    x
+                </text>
+            </g>
+        </g>
+        <g id="pixel-positions">
+            <text id="text-pixel-00" x="35.5" y="38" class="text-pixel">(0,0)</text>
+            <text id="text-pixel-01" x="35.5" y="68" class="text-pixel">(0,1)</text>
+            <text id="text-pixel-n0" x="215.5" y="38" class="text-pixel">(n,0)</text>
+            <text id="text-pixel-10" x="65.5" y="38" class="text-pixel">(1,0)</text>
+            <text id="text-pixel-0m" x="35.5" y="158" class="text-pixel">(0,m)</text>
+            <text id="text-pixel-nm" x="215.5" y="158" class="text-pixel">(n,m)</text>
+        </g>
+    </g>
+</svg>

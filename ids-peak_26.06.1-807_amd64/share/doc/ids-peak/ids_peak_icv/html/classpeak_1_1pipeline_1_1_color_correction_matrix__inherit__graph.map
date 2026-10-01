@@ -1,0 +1,11 @@
+<map id="ColorCorrectionMatrix" name="ColorCorrectionMatrix">
+<area shape="rect" id="Node000001" title="Color correction matrix." alt="" coords="99,255,263,280"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_matrix.html" title=" " alt="" coords="27,181,182,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,214,169,252,165,256,126,218"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1_array2_d.html" title=" " alt="" coords="23,93,186,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,147,107,181,102,181,102,147"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1detail_1_1_i_printable.html" title=" " alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,59,107,93,102,93,102,59"/>
+<area shape="rect" id="Node000005" href="$classpeak_1_1common_1_1serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="207,181,309,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="237,218,196,256,193,252,233,214"/>
+</map>

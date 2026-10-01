@@ -1,0 +1,9 @@
+<map id="PointCloudXYZOverlay&lt; PointCloudType, InnerPointType &gt;" name="PointCloudXYZOverlay&lt; PointCloudType, InnerPointType &gt;">
+<area shape="rect" id="Node000001" title="Represents a point cloud consisting of points with x, y, z coordinates and red, green and blue values..." alt="" coords="539,45,749,100"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1detail_1_1_point_cloud.html" title=" " alt="" coords="280,53,491,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="505,70,538,70,538,75,505,75"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="5,5,232,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,49,280,54,280,60,245,54"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_exchangeable.html" title=" " alt="" coords="5,84,232,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,90,280,85,280,91,246,96"/>
+</map>

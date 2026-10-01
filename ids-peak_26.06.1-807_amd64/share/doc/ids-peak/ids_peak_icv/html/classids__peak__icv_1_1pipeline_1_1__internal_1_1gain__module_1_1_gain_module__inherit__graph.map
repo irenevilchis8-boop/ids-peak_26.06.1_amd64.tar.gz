@@ -1,0 +1,11 @@
+<map id="GainModule" name="GainModule">
+<area shape="rect" id="Node000001" title="Gain is an image pipeline module that applies gain correction to an image." alt="" coords="86,152,185,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1module__base_1_1_module_base.html" title="Base class for all pipeline modules." alt="" coords="34,79,135,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,114,128,150,124,153,99,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,41,79,77,75,80,54,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="103,5,152,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="115,44,95,80,90,77,111,41"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="159,79,215,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="173,117,147,153,142,150,168,114"/>
+</map>

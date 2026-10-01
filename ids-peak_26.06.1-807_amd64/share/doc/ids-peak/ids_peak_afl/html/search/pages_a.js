@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['balance_0',['Auto white balance',['../group__ids__peak__afl__c__whitebalance.html#autotoc_md69',1,'']]],
+  ['balance_20control_1',['White Balance Control',['../group__ids__peak__afl__pipeline__module.html#autotoc_md175',1,'']]],
+  ['base_20interfaces_2',['Base Interfaces',['../group__ids__peak__afl__pipeline__features.html#autotoc_md135',1,'']]],
+  ['basic_20controllers_3',['Basic Controllers',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md111',1,'Basic Controllers'],['../group__ids__peak__afl__pipeline__controller.html#autotoc_md114',1,'Basic Controllers']]],
+  ['basic_20controllers_20usage_4',['Basic Controllers Usage',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md116',1,'']]],
+  ['basic_20setup_20example_5',['Basic Setup Example',['../group__ids__peak__afl__pipeline__module.html#autotoc_md171',1,'']]],
+  ['basic_20vs_20advanced_20controllers_6',['Basic vs Advanced Controllers',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md125',1,'']]],
+  ['basicautobrightness_7',['BasicAutoBrightness',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md117',1,'']]],
+  ['basicautofeatures_8',['BasicAutoFeatures',['../group__ids__peak__afl__pipeline__module.html#autotoc_md169',1,'']]],
+  ['basicautofeatures_20vs_20advancedautofeatures_9',['BasicAutoFeatures vs AdvancedAutoFeatures',['../group__ids__peak__afl__pipeline__module.html#autotoc_md168',1,'']]],
+  ['basicautofocus_10',['BasicAutoFocus',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md118',1,'']]],
+  ['basicautowhitebalance_11',['BasicAutoWhiteBalance',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md119',1,'']]],
+  ['best_20practices_12',['Best Practices',['../group__ids__peak__afl__pipeline__features.html#autotoc_md158',1,'']]],
+  ['brightness_13',['Auto brightness',['../group__ids__peak__afl__c__brightness.html#autotoc_md30',1,'']]],
+  ['brightness_20analysis_20algorithms_14',['Brightness Analysis Algorithms',['../group__ids__peak__afl__pipeline__features.html#autotoc_md155',1,'']]],
+  ['brightness_20calculation_20algorithm_15',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__brightness__algorithm.html&quot;&gt;Brightness calculation algorithm&lt;/a&gt;',['../group__ids__peak__afl__c__brightness.html#autotoc_md32',1,'']]],
+  ['brightness_20control_16',['Brightness Control',['../group__ids__peak__afl__pipeline__module.html#autotoc_md173',1,'']]],
+  ['brightness_20control_20features_17',['Brightness Control Features',['../group__ids__peak__afl__pipeline__features.html#autotoc_md131',1,'']]],
+  ['brightness_20features_20usage_18',['Brightness Features Usage',['../group__ids__peak__afl__pipeline__features.html#autotoc_md139',1,'']]],
+  ['brightnessalgorithm_19',['BrightnessAlgorithm',['../group__ids__peak__afl__pipeline__features.html#autotoc_md142',1,'']]],
+  ['bug_20fixes_20',['Bug Fixes',['../changelog.html#autotoc_md87',1,'Bug Fixes'],['../changelog.html#autotoc_md90',1,'Bug Fixes'],['../changelog.html#autotoc_md93',1,'Bug Fixes']]],
+  ['build_20for_20a_20specific_20platform_20required_20for_20native_20dlls_21',['Build for a specific platform (required for native DLLs)',['../csharp.html#autotoc_md107',1,'']]],
+  ['build_20instructions_22',['Build Instructions',['../csharp.html#csharpBuilding',1,'']]],
+  ['bulk_20configuration_23',['Bulk Configuration',['../group__ids__peak__afl__pipeline__module.html#autotoc_md165',1,'']]]
+];

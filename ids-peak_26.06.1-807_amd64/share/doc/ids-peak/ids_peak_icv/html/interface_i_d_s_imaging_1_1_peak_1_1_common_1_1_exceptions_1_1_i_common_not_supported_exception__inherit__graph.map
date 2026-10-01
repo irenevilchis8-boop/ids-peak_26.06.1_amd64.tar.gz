@@ -1,0 +1,7 @@
+<map id="ICommonNotSupportedException" name="ICommonNotSupportedException">
+<area shape="rect" id="Node000001" title="Marker interface for exceptions indicating an unsupported operation." alt="" coords="122,5,361,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_not_supported_exception.html" title="Exception thrown when an operation is not supported." alt="" coords="5,79,240,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,40,145,81,142,76,208,36"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_not_supported_exception.html" title="Occurs when a requested operation is not implemented or supported (e.g., exporting to an unsupported ..." alt="" coords="264,79,459,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,36,342,76,339,81,273,40"/>
+</map>

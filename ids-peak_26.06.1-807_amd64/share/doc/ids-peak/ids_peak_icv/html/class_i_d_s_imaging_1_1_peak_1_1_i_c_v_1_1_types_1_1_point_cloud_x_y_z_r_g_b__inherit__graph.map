@@ -1,0 +1,5 @@
+<map id="PointCloudXYZRGB" name="PointCloudXYZRGB">
+<area shape="rect" id="Node000001" title="Represents a point cloud consisting of points with x, y, z coordinates and color values (R,..." alt="" coords="41,79,187,104"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_detail_1_1_point_cloud_t.html" title=" " alt="" coords="5,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,44,117,78,111,78,111,44"/>
+</map>

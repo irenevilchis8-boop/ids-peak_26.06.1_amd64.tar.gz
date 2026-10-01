@@ -1,0 +1,7 @@
+<map id="HotpixelCorrectionModule" name="HotpixelCorrectionModule">
+<area shape="rect" id="Node000001" title="Hotpixel correction is an image pipeline module for detecting and correcting hot pixels in camera ima..." alt="" coords="5,152,196,177"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1pipeline_1_1modules_1_1_i_module.html" title="Interface for a module used within a pipeline." alt="" coords="64,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="49,5,152,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,44,103,78,98,78,98,44"/>
+</map>

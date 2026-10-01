@@ -1,0 +1,7 @@
+<map id="Image" name="Image">
+<area shape="rect" id="Node000001" title="Image Class for working with algorithms." alt="" coords="113,5,175,31"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1datatypes_1_1undistorted__image_1_1_undistorted_image.html" title="Represents an image that has undergone undistortion." alt="" coords="5,79,144,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,43,89,80,85,76,121,39"/>
+<area shape="rect" id="Node000003" href="$classids__peak__icv_1_1datatypes_1_1xyz__image_1_1_x_y_z_image.html" title="Represents a three&#45;channel image encoding cartesian coordinates (x, y, z) of a 3D point." alt="" coords="169,79,258,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,39,203,76,199,80,164,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UndistortedImage" name="UndistortedImage">
+<area shape="rect" id="Node000001" title="Represents an image that has undergone undistortion." alt="" coords="5,79,144,104"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1datatypes_1_1image_1_1_image.html" title="Image Class for working with algorithms." alt="" coords="43,5,106,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,44,77,78,72,78,72,44"/>
+</map>

@@ -1,0 +1,14 @@
+var peak__common__metadata__traits_8hpp =
+[
+    [ "MetadataKeyTraits< MetadataKey::DeviceTimestamp >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_timestamp_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_timestamp_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::DeviceFrameID >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_frame_i_d_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_frame_i_d_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::BinningHorizontal >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_binning_horizontal_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_binning_horizontal_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::BinningVertical >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_binning_vertical_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_binning_vertical_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::Roi >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_roi_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_roi_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::DeviceExposureTime >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::DeviceExposureTimeSequence >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_sequence_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_exposure_time_sequence_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::SystemTimestamp >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_system_timestamp_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_system_timestamp_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::DeviceGain >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_gain_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_gain_01_4" ],
+    [ "MetadataKeyTraits< MetadataKey::DeviceGainSequence >", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_gain_sequence_01_4.html", "structpeak_1_1common_1_1detail_1_1_metadata_key_traits_3_01_metadata_key_1_1_device_gain_sequence_01_4" ],
+    [ "peak::common::detail::allMetadataKeys", "namespacepeak_1_1common_1_1detail.html#accfc1d874531d407f7d1c2fd4f84cf78", null ]
+];

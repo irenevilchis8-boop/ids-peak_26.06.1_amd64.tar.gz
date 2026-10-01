@@ -1,0 +1,9 @@
+<map id="IcvInvalidConfigurationException" name="IcvInvalidConfigurationException">
+<area shape="rect" id="Node000001" title="Occurs when a required dependency is missing, the library is not initialized, or a misconfiguration a..." alt="" coords="5,225,241,251"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="71,152,176,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,191,126,225,121,225,121,191"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="51,79,196,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,118,126,152,121,152,121,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,5,167,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,44,126,78,121,78,121,44"/>
+</map>

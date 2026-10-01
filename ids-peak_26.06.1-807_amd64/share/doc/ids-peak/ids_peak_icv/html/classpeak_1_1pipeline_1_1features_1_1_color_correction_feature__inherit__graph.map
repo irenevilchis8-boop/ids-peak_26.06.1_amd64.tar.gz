@@ -1,0 +1,5 @@
+<map id="ColorCorrectionFeature" name="ColorCorrectionFeature">
+<area shape="rect" id="Node000001" title="Color correction applies a 3x3 ColorCorrectionMatrix to the image." alt="" coords="5,79,176,104"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1pipeline_1_1features_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="53,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,44,93,78,88,78,88,44"/>
+</map>

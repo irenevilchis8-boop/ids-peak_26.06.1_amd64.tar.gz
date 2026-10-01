@@ -1,0 +1,53 @@
+var group__ids__peak__common__serialization =
+[
+    [ "peak::common::serialization", "namespacepeak_1_1common_1_1serialization.html", null ],
+    [ "IArchive", "classpeak_1_1common_1_1serialization_1_1_i_archive.html", [
+      [ "ValueType", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1", [
+        [ "Bool", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1ac26f15e86e3de4c398a8273272aba034", null ],
+        [ "BoolArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1acb4687677601f87c081e7c96f26504d6", null ],
+        [ "Int", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1a1686a6c336b71b36d77354cea19a8b52", null ],
+        [ "IntArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1aa4cf98abdafab708d30b8d2ae8d57be8", null ],
+        [ "Double", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1ad909d38d705ce75386dd86e611a82f5b", null ],
+        [ "DoubleArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1a5d361c16229fc173f679fcac5a76446f", null ],
+        [ "String", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1a27118326006d3829667a400ad23d5d98", null ],
+        [ "StringArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1a8647c824cc337c0245db15728e32ec3d", null ],
+        [ "Archive", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1ae727b00944f81e1d0a95c12886ac4641", null ],
+        [ "ArchiveArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad9971b6ef33e02ba2c75d19c1d2518a1ae7352fedd2f20d7ce7429676bc6330d9", null ]
+      ] ],
+      [ "CreateArchive", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ade6470db7f1360265e003715991e9af2", null ],
+      [ "GetArchive", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a89b9579704572c64f1cd8adddb1b3fc8", null ],
+      [ "GetArchiveArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a3720b019149302a962527758a54ea9e9", null ],
+      [ "GetArrayCount", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a6aaa9c968803d702600b239c91a33685", null ],
+      [ "GetBool", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad3f08705426c8c2993511ad4e478ce86", null ],
+      [ "GetBoolArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ace3afda33a1b2eb19aa15fbac105a93c", null ],
+      [ "GetDouble", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a7daf829c01e7ec3555ce563764701555", null ],
+      [ "GetDoubleArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a08f65476b53b08ca3b2993fa8f36e80b", null ],
+      [ "GetInt", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ac9a17afaf24e3f200cd2246752f50cd3", null ],
+      [ "GetIntArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a51eb29ab1ae7b11c7273324f371381c9", null ],
+      [ "GetKeys", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#abf10a8a8561a234451957a2fb78cb6bd", null ],
+      [ "GetString", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad0722933145341c7ff2e7568e7d5491c", null ],
+      [ "GetStringArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a883dd15aebe95d9489e0e673d60088cb", null ],
+      [ "GetValueType", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#af17a40c712aa2d36531d40cc779e0957", null ],
+      [ "HasKey", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ad70ed408123c69c5bfef245f28dcdf8c", null ],
+      [ "SetArchive", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#af754d2a7c46d3456418b964fa64579ed", null ],
+      [ "SetArchiveArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a75d9fac5ca30e55da7bdbe835f14300c", null ],
+      [ "SetBool", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a3a5bb999d353fea60d7e71406e65dd49", null ],
+      [ "SetBoolArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a89c9dc59d49636e3422e0a4a93dbd4aa", null ],
+      [ "SetDouble", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#ae99eb756bbf84f0ed25649d9fcf0c111", null ],
+      [ "SetDoubleArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a25836be4850824336912a677dbf18db6", null ],
+      [ "SetInt", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a8baa2062dca0d162ed4447a857a7f1be", null ],
+      [ "SetIntArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#a4a8bba170926456a3cbf330f7ec63f74", null ],
+      [ "SetString", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#afc2cb1b0ea688e9f7e269cdee7792a9f", null ],
+      [ "SetStringArray", "classpeak_1_1common_1_1serialization_1_1_i_archive.html#aa2a6836900a5ccb4beffdf43d09647af", null ]
+    ] ],
+    [ "IDeserializer", "classpeak_1_1common_1_1serialization_1_1_i_deserializer.html", [
+      [ "Read", "classpeak_1_1common_1_1serialization_1_1_i_deserializer.html#af5366b0518346da94d13c6e474e6b4c8", null ]
+    ] ],
+    [ "ISerializable", "classpeak_1_1common_1_1serialization_1_1_i_serializable.html", [
+      [ "Deserialize", "classpeak_1_1common_1_1serialization_1_1_i_serializable.html#a2cce2d6a294229f0e57fbf2d58c05ea0", null ],
+      [ "Serialize", "classpeak_1_1common_1_1serialization_1_1_i_serializable.html#ab436291627799a57f7d4790410090b87", null ]
+    ] ],
+    [ "ISerializer", "classpeak_1_1common_1_1serialization_1_1_i_serializer.html", [
+      [ "Write", "classpeak_1_1common_1_1serialization_1_1_i_serializer.html#a99f4583e62a2ac967d7404c28c69b100", null ]
+    ] ]
+];

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="255.4" height="183.4" viewBox="-1.5 -1.5 255.4 183.4" id="svg-image-region-full"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path id="hLine" d="M 0,0 h 210" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+        <path id="vLine" d="M 0,0 v 150" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+    </defs>
+    <g transform="scale(1.2)">
+        <rect id="image-plane" fill="#ececec" x="0" y="0" width="210" height="150"/>
+        <g id="pixle-grid">
+            <use href="#hLine" id="lineH1"/>
+            <use href="#hLine" transform="translate(0,30)" id="lineH2"/>
+            <use href="#hLine" transform="translate(0,60)" id="lineH3"/>
+            <use href="#hLine" transform="translate(0,90)" id="lineH4"/>
+            <use href="#hLine" transform="translate(0,120)" id="lineH5"/>
+            <use href="#hLine" transform="translate(0,150)" id="lineH6"/>
+            <use href="#vLine" id="lineV1"/>
+            <use href="#vLine" transform="translate(30)" id="lineV2"/>
+            <use href="#vLine" transform="translate(60)" id="lineV3"/>
+            <use href="#vLine" transform="translate(90)" id="lineV4"/>
+            <use href="#vLine" transform="translate(120)" id="lineV5"/>
+            <use href="#vLine" transform="translate(150)" id="lineV6"/>
+            <use href="#vLine" transform="translate(180)" id="lineV7"/>
+            <use href="#vLine" transform="translate(210)" id="lineV8"/>
+        </g>
+        <path id="image-region" d="M 0,0 h 210 v 150 h -210 z"
+              fill="#009900" fill-opacity="0.3" stroke="#009900"
+              stroke-width="2"/>
+    </g>
+</svg>

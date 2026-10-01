@@ -1,0 +1,9 @@
+<map id="CommonBadAllocException" name="CommonBadAllocException">
+<area shape="rect" id="Node000001" title="Exception thrown when a memory allocation failure occurs." alt="" coords="77,152,279,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="5,79,151,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,110,162,150,159,154,105,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,81,78,75,78,75,44"/>
+<area shape="rect" id="Node000004" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_i_common_bad_alloc_exception.html" title="Marker interface for exceptions indicating a memory allocation failure." alt="" coords="175,79,381,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,114,197,154,194,150,248,110"/>
+</map>

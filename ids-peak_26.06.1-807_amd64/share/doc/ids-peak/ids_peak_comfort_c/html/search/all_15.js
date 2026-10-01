@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['main_20page_0',['Main page',['../index.html',1,'']]],
+  ['major_1',['major',['../structpeak__version.html#acaa8a60018b724301b0de7b13fa449d1',1,'peak_version']]],
+  ['manual_2',['manual',['../group__binning__manual.html',1,'Binning manual'],['../group__decimation__manual.html',1,'Decimation manual']]],
+  ['manual_20buffer_20preparation_3',['Manual Buffer Preparation',['../index.html#concept_manual_buffer_preparation',1,'']]],
+  ['manual_20buffer_20preparation_4',['Manual buffer preparation',['../group__manual__buffer__preparation.html',1,'']]],
+  ['manual_20update_5',['Manual Update',['../group__chunks.html#autotoc_md47',1,'']]],
+  ['max_6',['max',['../structpeak__double__limit.html#a0b0ede69e8156eb97acc579b88e883de',1,'peak_double_limit']]],
+  ['maximum_20quality_7',['Configure a JPEG ImageWriter with maximum quality',['../group__imagewriter.html#imagewriter_jpeg_example',1,'']]],
+  ['maxvalueperchannel_8',['maxValuePerChannel',['../structpeak__pixel__format__info.html#a9f7950c07d9ab10fdd791c8e6b03e8b3',1,'peak_pixel_format_info']]],
+  ['measurement_9',['Sharpness measurement',['../group__sharpness__measure.html',1,'']]],
+  ['memory_10',['Camera memory',['../group__camera__memory.html',1,'']]],
+  ['memoryaddress_11',['memoryAddress',['../structpeak__buffer.html#aae7bb3ef319cfa7ccde78928d2a62970',1,'peak_buffer']]],
+  ['memorysize_12',['memorySize',['../structpeak__buffer.html#a343339c089ec4104a237d3998c94ba38',1,'peak_buffer']]],
+  ['message_13',['Message',['../group__messagequeue__message.html',1,'']]],
+  ['message_20data_14',['Message Data',['../group__messagequeue__data.html',1,'']]],
+  ['message_20for_20auto_20exposure_20controller_15',['Enable message for auto exposure controller',['../group__host__auto__brightness.html#autotoc_md11',1,'']]],
+  ['message_20queue_16',['Message Queue',['../group__messagequeue.html',1,'']]],
+  ['messageid_17',['messageID',['../structpeak__message__info.html#a072d6149e19d8f466e1c881119ca666d',1,'peak_message_info']]],
+  ['min_18',['min',['../structpeak__double__limit.html#aad36546e8175d2922bee165fe028fedc',1,'peak_double_limit']]],
+  ['minor_19',['minor',['../structpeak__version.html#a7feeb248b9f5c0a309c4ec51a3ec57da',1,'peak_version']]],
+  ['mirror_20',['Mirror',['../group__mirror.html',1,'Mirror'],['../group__host__mirror.html',1,'Mirror']]],
+  ['mode_21',['Update Mode',['../group__chunks.html#autotoc_md45',1,'']]],
+  ['mode_22',['Shutter mode',['../group__shuttermode.html',1,'']]],
+  ['modelname_23',['modelName',['../structpeak__camera__descriptor.html#a7a0fbd2397e5b744326a68d8386e4bbe',1,'peak_camera_descriptor']]]
+];

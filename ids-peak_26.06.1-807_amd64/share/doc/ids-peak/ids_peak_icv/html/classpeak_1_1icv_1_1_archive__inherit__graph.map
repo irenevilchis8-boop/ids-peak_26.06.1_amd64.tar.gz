@@ -1,0 +1,7 @@
+<map id="Archive" name="Archive">
+<area shape="rect" id="Node000001" title="A key&#45;value store that implements the IArchive interface." alt="" coords="75,93,146,119"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1common_1_1serialization_1_1_i_archive.html" title="Interface for a hierarchical key&#45;value archive system." alt="" coords="5,13,80,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,47,102,91,98,95,60,51"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="105,5,255,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,58,124,95,120,91,152,54"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="InvalidConfigurationException" name="InvalidConfigurationException">
+<area shape="rect" id="Node000001" title="Occurs when a required dependency is missing, the library is not initialized, or a misconfiguration a..." alt="" coords="5,299,223,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="71,225,157,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,264,117,298,111,298,111,264"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="71,152,157,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,191,117,225,111,225,111,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,79,169,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,118,117,152,111,152,111,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="71,5,157,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,44,117,78,111,78,111,44"/>
+</map>

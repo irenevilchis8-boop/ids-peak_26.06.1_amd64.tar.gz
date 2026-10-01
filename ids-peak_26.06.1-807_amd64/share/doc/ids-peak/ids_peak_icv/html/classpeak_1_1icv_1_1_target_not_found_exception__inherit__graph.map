@@ -1,0 +1,11 @@
+<map id="TargetNotFoundException" name="TargetNotFoundException">
+<area shape="rect" id="Node000001" title="Occurs when an expected target object (e.g., calibration plate or marker) is not detected in the inpu..." alt="" coords="5,299,193,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="56,225,143,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,264,102,298,97,298,97,264"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="56,152,143,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,191,102,225,97,225,97,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,79,155,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,118,102,152,97,152,97,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="56,5,143,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,44,102,78,97,78,97,44"/>
+</map>

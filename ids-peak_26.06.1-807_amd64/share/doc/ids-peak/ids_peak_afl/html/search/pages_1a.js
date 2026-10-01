@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['safety_0',['Strong Exception Safety',['../index.html#principle_strong_exception_safety',1,'']]],
+  ['saving_20configuration_1',['Saving Configuration',['../group__ids__peak__afl__pipeline__module.html#autotoc_md183',1,'']]],
+  ['sdk_20style_2',['.NET (modern, SDK-style)',['../csharp.html#autotoc_md104',1,'']]],
+  ['search_20algorithm_3',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__focus__algorithm.html&quot;&gt;Peak search algorithm&lt;/a&gt;',['../group__ids__peak__afl__c__focus.html#autotoc_md62',1,'']]],
+  ['search_20algorithms_4',['Focus Search Algorithms',['../group__ids__peak__afl__pipeline__features.html#autotoc_md156',1,'']]],
+  ['searchalgorithm_5',['SearchAlgorithm',['../group__ids__peak__afl__pipeline__features.html#autotoc_md144',1,'']]],
+  ['selection_6',['Algorithm Selection',['../group__ids__peak__afl__pipeline__features.html#autotoc_md160',1,'']]],
+  ['serialization_7',['Feature Serialization',['../group__ids__peak__afl__pipeline__features.html#autotoc_md152',1,'']]],
+  ['serialization_20support_8',['Serialization Support',['../group__ids__peak__afl__pipeline__module.html#autotoc_md167',1,'']]],
+  ['setup_20example_9',['Basic Setup Example',['../group__ids__peak__afl__pipeline__module.html#autotoc_md171',1,'']]],
+  ['setup_20the_20auto_20feature_20manager_20with_20controllers_10',['Setup the auto feature manager with controllers',['../group__ids__peak__afl__c__automanager.html#autotoc_md84',1,'']]],
+  ['shared_20configuration_11',['Shared Configuration',['../classpeak_1_1afl_1_1_manager.html#autotoc_md16',1,'']]],
+  ['sharpness_20algorithm_12',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__sharpness__algorithm.html&quot;&gt;Sharpness algorithm&lt;/a&gt;',['../group__ids__peak__afl__c__focus.html#autotoc_md61',1,'']]],
+  ['sharpness_20algorithms_13',['Focus Sharpness Algorithms',['../group__ids__peak__afl__pipeline__features.html#autotoc_md157',1,'']]],
+  ['sharpnessalgorithm_14',['SharpnessAlgorithm',['../group__ids__peak__afl__pipeline__features.html#autotoc_md145',1,'']]],
+  ['skip_20frames_15',['Skip frames',['../group__ids__peak__afl__c__brightness.html#autotoc_md39',1,'<a class="el" href="group__ids__peak__afl__c__skip__frames.html">Skip frames</a>'],['../group__ids__peak__afl__c__focus.html#autotoc_md54',1,'<a class="el" href="group__ids__peak__afl__c__skip__frames.html">Skip frames</a>'],['../group__ids__peak__afl__c__whitebalance.html#autotoc_md71',1,'<a class="el" href="group__ids__peak__afl__c__skip__frames.html">Skip frames</a>']]],
+  ['skip_20frames_20works_16',['Skip Frames Works',['../group__ids__peak__afl__c__skip__frames.html#autotoc_md0',1,'How Skip Frames Works'],['../group__ids__peak__afl__c__brightness.html#autotoc_md40',1,'How Skip Frames Works'],['../group__ids__peak__afl__c__focus.html#autotoc_md55',1,'How Skip Frames Works'],['../group__ids__peak__afl__c__whitebalance.html#autotoc_md72',1,'How Skip Frames Works']]],
+  ['skipframes_17',['SkipFrames',['../group__ids__peak__afl__pipeline__features.html#autotoc_md151',1,'']]],
+  ['skipping_18',['Frame Skipping',['../group__ids__peak__afl__pipeline__module.html#autotoc_md177',1,'']]],
+  ['specific_20platform_20required_20for_20native_20dlls_19',['Build for a specific platform (required for native DLLs)',['../csharp.html#autotoc_md107',1,'']]],
+  ['staged_20data_20query_20',['Two Staged Data Query',['../index.html#principle_two_stage_query',1,'']]],
+  ['strong_20exception_20safety_21',['Strong Exception Safety',['../index.html#principle_strong_exception_safety',1,'']]],
+  ['style_22',['.NET (modern, SDK-style)',['../csharp.html#autotoc_md104',1,'']]],
+  ['support_23',['Serialization Support',['../group__ids__peak__afl__pipeline__module.html#autotoc_md167',1,'']]]
+];

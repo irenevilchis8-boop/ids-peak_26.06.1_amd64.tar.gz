@@ -1,0 +1,5 @@
+<map id="IImageView" name="IImageView">
+<area shape="rect" id="Node000001" title="Interface for viewing image pixel data from arbitrary sources, for example a camera buffer." alt="" coords="5,79,104,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,57,78,52,78,52,44"/>
+</map>

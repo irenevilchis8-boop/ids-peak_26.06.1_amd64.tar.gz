@@ -1,0 +1,7 @@
+<map id="PixelFormatConversionModule" name="PixelFormatConversionModule">
+<area shape="rect" id="Node000001" title="Pixel format conversion module that transforms images to a specified output pixel format." alt="" coords="5,152,225,177"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1pipeline_1_1modules_1_1_i_module.html" title="Interface for a module used within a pipeline." alt="" coords="79,79,152,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,118,118,152,113,152,113,118"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="64,5,167,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,44,118,78,113,78,113,44"/>
+</map>

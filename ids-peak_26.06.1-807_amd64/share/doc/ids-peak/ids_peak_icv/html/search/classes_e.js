@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['range_0',['Range',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_range.html',1,'Range'],['../classpython__interface__common_1_1datatypes_1_1range_1_1_range.html',1,'Range']]],
+  ['ranged_1',['RangeD',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_range_d.html',1,'IDSImaging::Peak::Common::Types']]],
+  ['rangef_2',['RangeF',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_range_f.html',1,'IDSImaging::Peak::Common::Types']]],
+  ['ranget_3',['RangeT',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'RangeT&lt; T &gt;'],['../classpeak_1_1common_1_1detail_1_1_range_t.html',1,'RangeT&lt; T &gt;']]],
+  ['ranget_3c_20byte_20_3e_4',['RangeT&lt; byte &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'IDSImaging::Peak::Common::Types::Detail']]],
+  ['ranget_3c_20double_20_3e_5',['RangeT&lt; double &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'IDSImaging::Peak::Common::Types::Detail']]],
+  ['ranget_3c_20float_20_3e_6',['RangeT&lt; float &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'IDSImaging::Peak::Common::Types::Detail']]],
+  ['ranget_3c_20int_20_3e_7',['RangeT&lt; int &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'IDSImaging::Peak::Common::Types::Detail']]],
+  ['ranget_3c_20uint_20_3e_8',['RangeT&lt; uint &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_detail_1_1_range_t.html',1,'IDSImaging::Peak::Common::Types::Detail']]],
+  ['rangeu_9',['RangeU',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_range_u.html',1,'IDSImaging::Peak::Common::Types']]],
+  ['rangeu8_10',['RangeU8',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_range_u8.html',1,'IDSImaging::Peak::Common::Types']]],
+  ['rectangle_11',['Rectangle',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_rectangle.html',1,'Rectangle'],['../classpython__interface__common_1_1datatypes_1_1geometry_1_1rectangle_1_1_rectangle.html',1,'Rectangle']]],
+  ['rectanglef_12',['RectangleF',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_rectangle_f.html',1,'IDSImaging::Peak::Common::Types::Geometry']]],
+  ['rectanglet_13',['RectangleT',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_detail_1_1_rectangle_t.html',1,'RectangleT&lt; TPosition, TSize &gt;'],['../classpeak_1_1common_1_1detail_1_1_rectangle_t.html',1,'RectangleT&lt; PointType, SizeType &gt;']]],
+  ['rectanglet_3c_20float_2c_20float_20_3e_14',['RectangleT&lt; float, float &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_detail_1_1_rectangle_t.html',1,'IDSImaging::Peak::Common::Types::Geometry::Detail']]],
+  ['rectanglet_3c_20int_2c_20uint_20_3e_15',['RectangleT&lt; int, uint &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_detail_1_1_rectangle_t.html',1,'IDSImaging::Peak::Common::Types::Geometry::Detail']]],
+  ['rectanglet_3c_20uint_2c_20uint_20_3e_16',['RectangleT&lt; uint, uint &gt;',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_detail_1_1_rectangle_t.html',1,'IDSImaging::Peak::Common::Types::Geometry::Detail']]],
+  ['rectangleu_17',['RectangleU',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_geometry_1_1_rectangle_u.html',1,'IDSImaging::Peak::Common::Types::Geometry']]],
+  ['region_18',['Region',['../classids__peak__icv_1_1datatypes_1_1region_1_1_region.html',1,'Region'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_region.html',1,'Region'],['../classpeak_1_1icv_1_1_region.html',1,'Region']]],
+  ['regionselector_19',['RegionSelector',['../classids__peak__icv_1_1selectors_1_1region__selector_1_1_region_selector.html',1,'RegionSelector'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_selectors_1_1_region_selector.html',1,'RegionSelector'],['../classpeak_1_1icv_1_1_region_selector.html',1,'RegionSelector']]],
+  ['reprojectionerror_20',['ReprojectionError',['../classids__peak__icv_1_1calibration_1_1reprojection__error_1_1_reprojection_error.html',1,'ReprojectionError'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_algorithms_1_1_calibration_1_1_reprojection_error.html',1,'ReprojectionError'],['../classpeak_1_1icv_1_1_reprojection_error.html',1,'ReprojectionError']]],
+  ['responsecurve_21',['ResponseCurve',['../classids__peak__icv_1_1hdr_1_1response__curve_1_1_response_curve.html',1,'ResponseCurve'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_algorithms_1_1_hdr_1_1_response_curve.html',1,'ResponseCurve'],['../classpeak_1_1icv_1_1_response_curve.html',1,'ResponseCurve']]],
+  ['responsecurvewriter_22',['ResponseCurveWriter',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_i_o_1_1_response_curve_writer.html',1,'ResponseCurveWriter'],['../classpeak_1_1icv_1_1_response_curve_writer.html',1,'ResponseCurveWriter']]],
+  ['rotation_23',['Rotation',['../classids__peak__icv_1_1pipeline_1_1datatypes_1_1rotation_1_1_rotation.html',1,'ids_peak_icv::pipeline::datatypes::rotation']]],
+  ['rotationfeature_24',['RotationFeature',['../classids__peak__icv_1_1pipeline_1_1features_1_1rotation__feature_1_1_rotation_feature.html',1,'RotationFeature'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_rotation_feature.html',1,'RotationFeature'],['../classpeak_1_1pipeline_1_1features_1_1_rotation_feature.html',1,'RotationFeature']]]
+];

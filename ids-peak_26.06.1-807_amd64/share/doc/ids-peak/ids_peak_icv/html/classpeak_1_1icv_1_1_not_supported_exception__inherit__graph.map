@@ -1,0 +1,14 @@
+<map id="NotSupportedException" name="NotSupportedException">
+<area shape="rect" id="Node000001" title="Occurs when a requested operation is not implemented or supported (e.g., exporting to an unsupported ..." alt="" coords="39,299,213,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,258,114,296,110,300,70,262"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="83,152,169,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,189,64,227,61,223,101,185"/>
+<area shape="rect" id="Node000006" href="$classpeak_1_1common_1_1_not_supported_exception.html" title="Thrown when an unsupported operation or feature is used." alt="" coords="116,225,291,251"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="151,185,191,223,188,227,147,189"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="71,79,181,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,118,129,152,123,152,123,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="83,5,169,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,44,129,78,123,78,123,44"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,262,142,300,138,296,178,258"/>
+</map>

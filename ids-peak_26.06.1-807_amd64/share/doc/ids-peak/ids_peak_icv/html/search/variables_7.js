@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['g_0',['g',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_painting_1_1_color.html#aa4fb817c99bb3fe94b8b9d3f2660d36e',1,'IDSImaging::Peak::ICV::Painting::Color']]],
+  ['gamma_1',['gamma',['../classids__peak__icv_1_1pipeline_1_1__internal_1_1tone__curve__correction__module_1_1_tone_curve_correction_module.html#a8d00631c9622112f1877fdb1222c242e',1,'ids_peak_icv::pipeline::_internal::tone_curve_correction_module::ToneCurveCorrectionModule']]],
+  ['gamma_5fenabled_2',['gamma_enabled',['../classids__peak__icv_1_1pipeline_1_1__internal_1_1tone__curve__correction__module_1_1_tone_curve_correction_module.html#aba6b38ca840d332d8dddd3107f9b13aa',1,'ids_peak_icv::pipeline::_internal::tone_curve_correction_module::ToneCurveCorrectionModule']]],
+  ['gold_3',['GOLD',['../classids__peak__icv_1_1painting_1_1color_1_1_color_constant.html#ad4423f9c117731cb3e39a8e0e3f1ac7d',1,'ids_peak_icv::painting::color::ColorConstant']]],
+  ['goldenrod_4',['GOLDENROD',['../classids__peak__icv_1_1painting_1_1color_1_1_color_constant.html#a58ba14645306ad68fe12b7617c868412',1,'ids_peak_icv::painting::color::ColorConstant']]],
+  ['gray_5',['GRAY',['../classids__peak__icv_1_1painting_1_1color_1_1_color_constant.html#a92020e1f270242d2d1b55f037471da3d',1,'ids_peak_icv::painting::color::ColorConstant']]],
+  ['green_6',['GREEN',['../classpython__interface__common_1_1datatypes_1_1pixelformat_1_1_channel.html#ae122fdff85f14c80ff6af6c400449924',1,'python_interface_common.datatypes.pixelformat.Channel.GREEN'],['../classids__peak__icv_1_1painting_1_1color_1_1_color_constant.html#ae122fdff85f14c80ff6af6c400449924',1,'ids_peak_icv.painting.color.ColorConstant.GREEN'],['../classids__peak__icv_1_1pipeline_1_1__internal_1_1gain__module_1_1___gain_type.html#ae122fdff85f14c80ff6af6c400449924',1,'ids_peak_icv.pipeline._internal.gain_module._GainType.GREEN']]],
+  ['green_7',['green',['../classids__peak__icv_1_1datatypes_1_1geometry_1_1point__xyzrgb_1_1_point_x_y_z_r_g_b.html#ad83fb941855ba7c4aa2bb65245437777',1,'ids_peak_icv.datatypes.geometry.point_xyzrgb.PointXYZRGB.green'],['../classids__peak__icv_1_1pipeline_1_1__internal_1_1gain__module_1_1_gain_module.html#ad83fb941855ba7c4aa2bb65245437777',1,'ids_peak_icv.pipeline._internal.gain_module.GainModule.green']]]
+];

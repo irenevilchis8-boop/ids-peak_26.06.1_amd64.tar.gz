@@ -1,0 +1,31 @@
+<map id="IModule" name="IModule">
+<area shape="rect" id="Node000001" title="Interface for a module used within a pipeline." alt="" coords="156,293,229,318"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1pipeline_1_1detail_1_1_color_matrix_transformation_module.html" title="Color matrix transformation is an image pipeline module that applies a ColorCorrectionMatrix to an im..." alt="" coords="290,5,485,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,278,197,231,211,171,236,109,254,81,276,55,292,43,295,48,279,59,258,84,240,112,216,173,202,232,197,279"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1pipeline_1_1detail_1_1_debayer_module.html" title="Debayer is an image pipeline module that converts Bayer RAW images into standard color formats." alt="" coords="325,70,449,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,278,202,239,217,192,241,145,257,123,276,105,299,91,324,83,326,88,301,96,279,109,261,127,245,148,222,194,207,241,199,279"/>
+<area shape="rect" id="Node000005" href="$classpeak_1_1pipeline_1_1detail_1_1_downsampling_module.html" title="Downsampling is used to decrease the image size." alt="" coords="304,119,471,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,279,225,216,247,182,276,154,302,140,305,145,279,158,251,185,229,218,202,281"/>
+<area shape="rect" id="Node000006" href="$classpeak_1_1pipeline_1_1detail_1_1_hotpixel_correction_module.html" title="Hotpixel correction is an image pipeline module for detecting and correcting hot pixels in camera ima..." alt="" coords="292,169,483,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,279,234,240,254,220,276,203,301,192,303,197,279,208,257,224,238,243,209,283"/>
+<area shape="rect" id="Node000007" href="$classpeak_1_1pipeline_1_1detail_1_1_mono_conversion_module.html" title="Mono conversion is an image pipeline module that converts images to a monochrome format." alt="" coords="299,218,476,243"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="220,282,276,252,312,241,314,246,278,257,223,287"/>
+<area shape="rect" id="Node000008" href="$classpeak_1_1pipeline_1_1detail_1_1_pixel_format_conversion_module.html" title="Pixel format conversion module that transforms images to a specified output pixel format." alt="" coords="277,267,497,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="243,296,289,290,290,295,244,301"/>
+<area shape="rect" id="Node000009" href="$classpeak_1_1pipeline_1_1detail_1_1_sharpening_module.html" title="Sharpening is an image pipeline module that applies a sharpening filter to enhance image detail." alt="" coords="316,317,459,342"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="244,309,316,318,315,323,243,314"/>
+<area shape="rect" id="Node000010" href="$classpeak_1_1pipeline_1_1detail_1_1_tone_curve_correction_module.html" title="Tone curve correction is an image pipeline module that applies digital black correction and inverse g..." alt="" coords="285,366,489,391"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="224,323,278,352,314,363,313,368,276,357,221,328"/>
+<area shape="rect" id="Node000011" href="$classpeak_1_1pipeline_1_1detail_1_1_transformation_module.html" title="Transformation is an image pipeline module that provides mirror and rotation functionality." alt="" coords="304,415,471,441"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="209,328,238,367,257,386,279,402,305,413,302,418,276,406,254,390,234,370,205,331"/>
+<area shape="rect" id="Node000012" href="$classpeak_1_1pipeline_1_1detail_1_1_unpack_module.html" title="Unpack is an image pipeline module that converts packed pixel formats into corresponding unpacked Bay..." alt="" coords="328,465,447,490"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="203,330,230,392,251,424,279,451,302,464,328,471,327,476,300,469,276,455,247,428,225,395,198,332"/>
+<area shape="rect" id="Node000013" href="$classpeak_1_1pipeline_1_1modules_1_1_i_auto_feature.html" title="Interface for modules that provide auto feature functionality." alt="" coords="335,514,439,539"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="199,331,207,369,222,416,245,462,261,483,279,501,306,515,336,523,335,528,304,520,276,505,257,486,241,465,217,418,202,371,194,332"/>
+<area shape="rect" id="Node000014" href="$classpeak_1_1pipeline_1_1modules_1_1_i_gain.html" title="Interface for modules that provide gain control functionality." alt="" coords="359,563,415,589"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="201,331,232,451,255,512,267,535,279,550,297,562,318,569,359,574,359,580,317,574,295,567,276,554,263,538,250,514,227,453,196,332"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1common_1_1serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="5,293,108,318"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,303,156,303,156,308,122,308"/>
+<area shape="rect" id="Node000015" href="$classpeak_1_1pipeline_1_1detail_1_1_gain_module.html" title="Image pipeline module for applying gain to the image." alt="" coords="545,563,644,589"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="429,573,545,573,545,579,429,579"/>
+</map>

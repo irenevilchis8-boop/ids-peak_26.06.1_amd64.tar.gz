@@ -1,0 +1,29 @@
+<map id="IFeature" name="IFeature">
+<area shape="rect" id="Node000001" title="Abstract base class for all image processing pipeline features." alt="" coords="103,277,177,303"/>
+<area shape="rect" id="Node000003" href="$classids__peak__icv_1_1pipeline_1_1features_1_1binning__feature_1_1_binning_feature.html" title="Binning is used to decrease the image size." alt="" coords="263,5,382,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,263,175,142,198,80,211,57,224,40,242,28,262,20,264,25,244,33,227,44,215,59,203,83,180,144,148,264"/>
+<area shape="rect" id="Node000004" href="$classids__peak__icv_1_1pipeline_1_1features_1_1chromatic__adaption__feature_1_1_chromatic_adaption_feature.html" title="Adjusts to changes in lighting conditions to maintain consistent color perception despite variations ..." alt="" coords="225,55,420,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,263,150,224,165,177,189,130,205,108,224,89,242,78,244,82,227,93,209,112,193,133,170,179,155,226,146,264"/>
+<area shape="rect" id="Node000005" href="$classids__peak__icv_1_1pipeline_1_1features_1_1color__correction__feature_1_1_color_correction_feature.html" title="Color correction applies a 3x3 color correction matrix to the image." alt="" coords="237,104,408,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="145,264,173,201,195,167,224,139,244,127,246,132,227,143,199,170,177,203,150,266"/>
+<area shape="rect" id="Node000006" href="$classids__peak__icv_1_1pipeline_1_1features_1_1decimation__feature_1_1_decimation_feature.html" title="Decimation is used to decrease the image size." alt="" coords="250,153,395,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,264,182,224,202,205,224,188,249,176,251,181,227,192,205,209,186,228,157,267"/>
+<area shape="rect" id="Node000007" href="$classids__peak__icv_1_1pipeline_1_1features_1_1digital__black__feature_1_1_digital_black_feature.html" title="Digital black applies digital black correction to an image." alt="" coords="248,203,397,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,267,224,237,259,226,260,231,226,242,171,272"/>
+<area shape="rect" id="Node000008" href="$classids__peak__icv_1_1pipeline_1_1features_1_1gain__feature_1_1_gain_feature.html" title="Gain is an image pipeline feature that applies gain correction to an image." alt="" coords="273,252,373,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="191,280,272,269,273,274,191,286"/>
+<area shape="rect" id="Node000009" href="$classids__peak__icv_1_1pipeline_1_1features_1_1gamma__feature_1_1_gamma_feature.html" title="Gamma applies an inverse gamma transformation to an image." alt="" coords="261,301,384,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="191,294,262,303,261,309,191,299"/>
+<area shape="rect" id="Node000010" href="$classids__peak__icv_1_1pipeline_1_1features_1_1hotpixel__correction__feature_1_1_hotpixel_correction_feature.html" title="HotpixelCorrection detects and corrects hot pixels in camera images." alt="" coords="227,351,419,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="171,308,226,337,260,348,259,353,224,342,169,313"/>
+<area shape="rect" id="Node000011" href="$classids__peak__icv_1_1pipeline_1_1features_1_1mirror__feature_1_1_mirror_feature.html" title="Mirror provides functionality to flip the image left&#45;right or up&#45;down." alt="" coords="269,400,377,425"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="157,313,186,351,205,370,227,386,247,396,269,403,268,408,245,401,224,391,202,374,182,355,152,316"/>
+<area shape="rect" id="Node000012" href="$classids__peak__icv_1_1pipeline_1_1features_1_1rotation__feature_1_1_rotation_feature.html" title="Rotation provides fixed&#45;angle rotation functionality." alt="" coords="261,449,385,475"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="150,315,178,377,199,409,227,436,262,452,260,457,224,440,195,412,173,379,145,317"/>
+<area shape="rect" id="Node000013" href="$classids__peak__icv_1_1pipeline_1_1features_1_1saturation__feature_1_1_saturation_feature.html" title="Adjusts the saturation of an image by modifying a 3x3 color correction matrix." alt="" coords="254,499,391,524"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="146,316,155,354,170,400,194,446,209,467,227,485,255,501,253,505,224,489,205,471,189,449,165,402,150,355,141,317"/>
+<area shape="rect" id="Node000014" href="$classids__peak__icv_1_1pipeline_1_1features_1_1sharpening__feature_1_1_sharpening_feature.html" title="Provides access to sharpening settings within an image processing pipeline." alt="" coords="251,548,394,573"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="148,315,180,436,203,496,215,519,227,535,252,550,250,554,224,539,211,522,198,498,175,437,143,317"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,277,55,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,287,103,287,103,293,68,293"/>
+</map>

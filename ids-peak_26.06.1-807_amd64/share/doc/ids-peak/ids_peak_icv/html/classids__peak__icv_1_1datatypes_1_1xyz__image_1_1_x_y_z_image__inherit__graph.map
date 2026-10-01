@@ -1,0 +1,5 @@
+<map id="XYZImage" name="XYZImage">
+<area shape="rect" id="Node000001" title="Represents a three&#45;channel image encoding cartesian coordinates (x, y, z) of a 3D point." alt="" coords="5,79,95,104"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1datatypes_1_1image_1_1_image.html" title="Image Class for working with algorithms." alt="" coords="19,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,44,53,78,47,78,47,44"/>
+</map>

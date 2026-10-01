@@ -1,0 +1,11 @@
+<map id="Image" name="Image">
+<area shape="rect" id="Node000001" title="Constructs an Image from an IImageView Instance." alt="" coords="113,79,175,104"/>
+<area shape="rect" id="Node000004" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_undistorted_image.html" title="Represents an image that has undergone undistortion." alt="" coords="5,152,144,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,116,89,153,85,150,121,112"/>
+<area shape="rect" id="Node000005" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_x_y_z_image.html" title="Represents a three&#45;channel image encoding cartesian coordinates (x, y, z) of a 3D point." alt="" coords="169,152,258,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,112,203,150,199,153,164,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="27,5,125,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,39,134,76,130,80,95,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="150,5,277,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,43,158,80,154,76,190,39"/>
+</map>

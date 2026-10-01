@@ -1,0 +1,5 @@
+<map id="SharpeningFeature" name="SharpeningFeature">
+<area shape="rect" id="Node000001" title="Sharpening applies a sharpening filter to enhance image detail." alt="" coords="5,79,148,104"/>
+<area shape="rect" id="Node000002" href="$interface_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="39,5,114,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,44,79,78,74,78,74,44"/>
+</map>

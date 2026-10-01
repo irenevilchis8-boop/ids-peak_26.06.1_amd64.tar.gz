@@ -1,0 +1,9 @@
+<map id="Region" name="Region">
+<area shape="rect" id="Node000001" title="Represents a region defined by a set of points in the image plane." alt="" coords="160,93,227,119"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_i_drawable.html" title="Base class for all drawables." alt="" coords="5,13,93,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,43,172,91,169,95,83,47"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="118,5,269,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,59,196,93,191,93,191,59"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_exchangeable.html" title=" " alt="" coords="293,5,467,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,53,224,96,222,91,320,48"/>
+</map>

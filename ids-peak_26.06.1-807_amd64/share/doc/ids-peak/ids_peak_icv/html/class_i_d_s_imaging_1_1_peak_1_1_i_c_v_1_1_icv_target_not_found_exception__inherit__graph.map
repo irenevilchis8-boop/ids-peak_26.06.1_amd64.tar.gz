@@ -1,0 +1,9 @@
+<map id="IcvTargetNotFoundException" name="IcvTargetNotFoundException">
+<area shape="rect" id="Node000001" title="Occurs when an expected target object (e.g., calibration plate or marker) is not detected in the inpu..." alt="" coords="5,225,212,251"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="56,152,161,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,191,111,225,106,225,106,191"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="36,79,181,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,118,111,152,106,152,106,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="65,5,152,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,44,111,78,106,78,106,44"/>
+</map>

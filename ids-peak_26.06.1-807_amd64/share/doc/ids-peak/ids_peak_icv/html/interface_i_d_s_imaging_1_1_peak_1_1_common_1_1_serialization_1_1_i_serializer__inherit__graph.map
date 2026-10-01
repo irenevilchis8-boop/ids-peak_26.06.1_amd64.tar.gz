@@ -1,0 +1,5 @@
+<map id="ISerializer" name="ISerializer">
+<area shape="rect" id="Node000001" title="Interface for serializing data to an output stream. This interface defines a contract for writing str..." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_serialization_1_1_serializer.html" title="Serializer for writing IArchive objects to an output stream." alt="" coords="7,79,90,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,44,51,78,46,78,46,44"/>
+</map>

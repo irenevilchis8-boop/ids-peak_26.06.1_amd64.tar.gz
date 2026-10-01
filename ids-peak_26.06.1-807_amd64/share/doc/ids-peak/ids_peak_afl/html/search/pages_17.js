@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['packages_20first_0',['Restore packages first',['../csharp.html#autotoc_md106',1,'']]],
+  ['page_1',['Main page',['../index.html',1,'']]],
+  ['parameter_20validation_2',['Parameter Validation',['../group__ids__peak__afl__pipeline__module.html#autotoc_md180',1,'']]],
+  ['patterns_3',['Common Patterns',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md126',1,'']]],
+  ['peak_20search_20algorithm_4',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__focus__algorithm.html&quot;&gt;Peak search algorithm&lt;/a&gt;',['../group__ids__peak__afl__c__focus.html#autotoc_md62',1,'']]],
+  ['peak_5fafl_5fautofeaturemanager_5fsetccm_20color_20correction_20matrix_20ccm_5',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__automanager.html#gadc51c1d624960ae9f461e92228d6358f&quot;&gt;Color Correction Matrix (CCM)&lt;/a&gt;',['../group__ids__peak__afl__c__whitebalance.html#autotoc_md75',1,'']]],
+  ['percentile_6',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__auto__percentile.html&quot;&gt;Percentile&lt;/a&gt;',['../group__ids__peak__afl__c__brightness.html#autotoc_md38',1,'']]],
+  ['persistence_7',['Configuration Persistence',['../group__ids__peak__afl__pipeline__module.html#autotoc_md182',1,'']]],
+  ['pipeline_20controllers_8',['Pipeline Controllers',['../group__ids__peak__afl__pipeline__controller.html#autotoc_md110',1,'']]],
+  ['pipeline_20features_9',['Pipeline Features',['../group__ids__peak__afl__pipeline__features.html#autotoc_md129',1,'']]],
+  ['pipeline_20module_10',['Pipeline Module',['../group__ids__peak__afl__pipeline__module.html#autotoc_md162',1,'']]],
+  ['platform_20required_20for_20native_20dlls_11',['Build for a specific platform (required for native DLLs)',['../csharp.html#autotoc_md107',1,'']]],
+  ['practices_12',['Best Practices',['../group__ids__peak__afl__pipeline__features.html#autotoc_md158',1,'']]],
+  ['prerequisites_13',['Prerequisites',['../group__ids__peak__common__cpp.html#autotoc_md26',1,'Prerequisites'],['../csharp.html#csharpPrerequisites',1,'Prerequisites'],['../index.html#autotoc_md108',1,'Prerequisites'],['../python.html#pythonPrerequisites',1,'Prerequisites']]],
+  ['preset_14',['&lt;a class=&quot;el&quot; href=&quot;group__ids__peak__afl__c__roi__preset.html&quot;&gt;Region of interest preset&lt;/a&gt;',['../group__ids__peak__afl__c__focus.html#autotoc_md60',1,'']]],
+  ['principles_15',['Core Principles',['../index.html#principles',1,'']]],
+  ['processing_16',['Processing',['../group__ids__peak__afl__pipeline__module.html#autotoc_md178',1,'Conditional Processing'],['../classpeak_1_1afl_1_1_manager.html#autotoc_md15',1,'Image Processing']]],
+  ['processing_20callback_17',['Processing Callback',['../group__ids__peak__afl__c__callback.html#autotoc_md4',1,'Processing Callback'],['../group__ids__peak__afl__c__brightness__callback.html#autotoc_md11',1,'Processing Callback'],['../group__ids__peak__afl__c__brightness.html#autotoc_md47',1,'Processing Callback'],['../group__ids__peak__afl__c__focus.html#autotoc_md66',1,'Processing Callback'],['../group__ids__peak__afl__c__whitebalance.html#autotoc_md79',1,'Processing Callback']]],
+  ['processing_20callback_20function_18',['Processing callback function',['..//media/teamcity/teamcity_workspace/work/602e3a5e51865b29/build_x86_64/branded_sources/doc/topics.dox#autotoc_md189',1,'']]],
+  ['processing_20images_19',['Processing images',['../group__ids__peak__afl__c__automanager.html#autotoc_md83',1,'']]],
+  ['purpose_20',['Purpose',['../classpeak_1_1afl_1_1_manager.html#autotoc_md13',1,'']]],
+  ['python_21',['Python',['../python.html',1,'']]]
+];

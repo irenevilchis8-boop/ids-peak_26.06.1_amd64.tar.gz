@@ -1,0 +1,38 @@
+var group__ids__peak__icv__cpp__pipeline =
+[
+    [ "Pipeline Modules", "group__ids__peak__icv__cpp__pipeline__modules.html", "group__ids__peak__icv__cpp__pipeline__modules" ],
+    [ "Pipeline Features", "group__ids__peak__icv__cpp__pipeline__features.html", "group__ids__peak__icv__cpp__pipeline__features" ],
+    [ "Special Pipeline Types", "group__ids__peak__icv__cpp__pipeline__types.html", "group__ids__peak__icv__cpp__pipeline__types" ],
+    [ "DefaultPipeline", "classpeak_1_1pipeline_1_1_default_pipeline.html", [
+      [ "DefaultPipeline", "classpeak_1_1pipeline_1_1_default_pipeline.html#ab573864991d48a39c2254616691a3859", null ],
+      [ "~DefaultPipeline", "classpeak_1_1pipeline_1_1_default_pipeline.html#ae666a260e1fb2e337308c4713f8aa58f", null ],
+      [ "Binning", "classpeak_1_1pipeline_1_1_default_pipeline.html#a586bd51941a5912fa001fa207c5db99e", null ],
+      [ "ChromaticAdaption", "classpeak_1_1pipeline_1_1_default_pipeline.html#aa9a663ed58fbcadea961f520a21ceb33", null ],
+      [ "ColorCorrection", "classpeak_1_1pipeline_1_1_default_pipeline.html#a9b621bfcc99794c17b1de4469f0e3e76", null ],
+      [ "Decimation", "classpeak_1_1pipeline_1_1_default_pipeline.html#a48320761380e43440855462d7d7d2691", null ],
+      [ "DigitalBlack", "classpeak_1_1pipeline_1_1_default_pipeline.html#a5f4492a7ff99aad36f750200303c7f82", null ],
+      [ "ExportSettingsToFile", "classpeak_1_1pipeline_1_1_default_pipeline.html#ae009f505e01e2a639c88e5aae9dfb3e0", null ],
+      [ "ExportSettingsToString", "classpeak_1_1pipeline_1_1_default_pipeline.html#ad8a8f2123ed264feabe373ee794b91b7", null ],
+      [ "Gain", "classpeak_1_1pipeline_1_1_default_pipeline.html#abb1b0177d599f7da6ddc5e38620cc3ba", null ],
+      [ "Gamma", "classpeak_1_1pipeline_1_1_default_pipeline.html#a9fda61e9a5f552b633d9a9e021472d06", null ],
+      [ "GetOutputPixelFormat", "classpeak_1_1pipeline_1_1_default_pipeline.html#a9b5a3cfe4c21dcdaf3f25347bbdb21d0", null ],
+      [ "GetProcessingPolicy", "classpeak_1_1pipeline_1_1_default_pipeline.html#aad47a834493d9242277c505b2406265a", null ],
+      [ "GetType", "classpeak_1_1pipeline_1_1_default_pipeline.html#a212c9e54fb27f16196142e2e1dc20073", null ],
+      [ "HotpixelCorrection", "classpeak_1_1pipeline_1_1_default_pipeline.html#a9fc546f7a89fcbfcee4dd89c33356fb2", null ],
+      [ "ImportSettingsFromFile", "classpeak_1_1pipeline_1_1_default_pipeline.html#adc7fcab7539a9aa755d92e230492fb25", null ],
+      [ "ImportSettingsFromString", "classpeak_1_1pipeline_1_1_default_pipeline.html#a510d445dc14b238b2210e60c94b91e16", null ],
+      [ "Mirror", "classpeak_1_1pipeline_1_1_default_pipeline.html#a014fbbe60add789a274e704ae3e6f43c", null ],
+      [ "operator<<", "classpeak_1_1pipeline_1_1_default_pipeline.html#a272f31019ee36d1bc284796a4319c164", null ],
+      [ "operator<<", "classpeak_1_1pipeline_1_1_default_pipeline.html#a0ba3057ba3c82b3bcf791f93e8a7076d", null ],
+      [ "Process", "classpeak_1_1pipeline_1_1_default_pipeline.html#acced29bfc381e3766a72401f758a7b33", null ],
+      [ "Process", "classpeak_1_1pipeline_1_1_default_pipeline.html#a0b65b2338ae748174dea2a7f8992d786", null ],
+      [ "ReleaseBuffers", "classpeak_1_1pipeline_1_1_default_pipeline.html#a73bd299587bfdf5f9ef84237fedd9ce3", null ],
+      [ "ResetToDefault", "classpeak_1_1pipeline_1_1_default_pipeline.html#ae41a95bafc53c5dba0c167835df9bb04", null ],
+      [ "Rotation", "classpeak_1_1pipeline_1_1_default_pipeline.html#adedd708fab3287a4908429e5f7877ad8", null ],
+      [ "Saturation", "classpeak_1_1pipeline_1_1_default_pipeline.html#a8f729ba3fcd9c3ab0683e4d5863a7f95", null ],
+      [ "SetAutoFeatureModule", "classpeak_1_1pipeline_1_1_default_pipeline.html#a0191602cfc481c26932882d4282fc7e7", null ],
+      [ "SetOutputPixelFormat", "classpeak_1_1pipeline_1_1_default_pipeline.html#a1431d263a9cde81422971fb654676fae", null ],
+      [ "SetProcessingPolicy", "classpeak_1_1pipeline_1_1_default_pipeline.html#adaaef1fa893edf6d7e402a067a410c18", null ],
+      [ "Sharpening", "classpeak_1_1pipeline_1_1_default_pipeline.html#a0de78c3163b683d102795af9b4e60bec", null ]
+    ] ]
+];

@@ -1,0 +1,47 @@
+<map id="CommonException" name="CommonException">
+<area shape="rect" id="Node000001" title="Base class for all exceptions thrown by the peak libraries." alt="" coords="140,232,285,257"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_bad_alloc_exception.html" title="Exception thrown when a memory allocation failure occurs." alt="" coords="360,5,563,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,218,233,178,256,129,289,80,309,58,332,40,358,26,361,31,335,44,313,62,293,84,261,132,238,180,223,219"/>
+<area shape="rect" id="Node000004" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_i_o_exception.html" title="Exception thrown when an I/O operation fails." alt="" coords="382,55,541,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,218,265,153,295,118,332,89,356,78,381,71,383,76,358,83,335,94,299,122,269,156,227,221"/>
+<area shape="rect" id="Node000005" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_internal_error_exception.html" title="Exception representing a public&#45;facing error condition." alt="" coords="348,104,575,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="231,220,274,177,302,156,332,138,363,127,364,132,334,143,305,160,278,181,234,224"/>
+<area shape="rect" id="Node000006" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_invalid_cast_exception.html" title="Exception thrown when an invalid cast or type conversion is attempted." alt="" coords="352,153,571,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="248,223,288,204,333,187,377,176,378,181,334,193,290,209,250,228"/>
+<area shape="rect" id="Node000007" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_invalid_parameter_exception.html" title="Exception thrown when an invalid parameter is detected." alt="" coords="333,203,589,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="299,232,353,225,354,231,299,237"/>
+<area shape="rect" id="Node000008" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_library_not_initialized_exception.html" title="Exception thrown when an operation is invoked before library initialization." alt="" coords="355,253,568,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="299,252,355,258,354,263,299,257"/>
+<area shape="rect" id="Node000009" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_not_supported_exception.html" title="Exception thrown when an operation is not supported." alt="" coords="344,317,579,343"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="247,262,288,283,334,302,381,315,379,320,332,307,286,288,245,267"/>
+<area shape="rect" id="Node000010" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_out_of_range_exception.html" title="Exception thrown when a value is outside the valid range." alt="" coords="349,367,573,392"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="233,266,276,311,304,334,335,353,363,364,361,369,332,358,301,339,273,315,229,270"/>
+<area shape="rect" id="Node000011" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_exceptions_1_1_common_timeout_exception.html" title="Exception thrown when an operation times out." alt="" coords="362,416,561,441"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="227,269,244,300,268,337,298,373,335,402,363,415,360,420,332,407,294,377,263,340,239,303,222,271"/>
+<area shape="rect" id="Node000012" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="409,465,514,491"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="222,270,237,311,260,361,292,411,312,433,335,452,370,468,409,475,408,481,369,473,332,456,309,437,288,414,255,363,232,313,217,271"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,232,92,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,242,140,242,140,247,106,247"/>
+<area shape="rect" id="Node000013" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_corrupted_exception.html" title="Occurs when reading from a file or stream that is incomplete, damaged, or in an unexpected format." alt="" coords="671,219,840,244"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="527,477,560,469,588,452,605,429,613,405,614,381,611,356,608,330,609,305,617,279,635,255,651,243,669,235,671,240,654,248,639,259,622,282,614,306,614,330,616,355,619,381,618,406,610,432,591,456,562,474,528,482"/>
+<area shape="rect" id="Node000014" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_i_o_exception.html" title="Occurs when a file operation fails (e.g., missing file, insufficient permissions, or inaccessible dir..." alt="" coords="696,268,815,293"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="527,476,559,468,588,452,602,435,609,418,611,380,613,342,620,322,636,304,664,287,695,279,696,284,666,292,639,308,625,325,618,343,616,380,614,419,606,438,591,456,561,473,528,481"/>
+<area shape="rect" id="Node000015" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_internal_error_exception.html" title="Occurs when a failure happens during processing due to an unhandled internal routine condition." alt="" coords="662,317,849,343"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="527,475,559,467,588,452,599,441,605,429,611,404,617,378,624,365,636,353,660,339,663,344,639,357,628,369,622,380,616,405,610,431,603,444,591,456,561,472,529,480"/>
+<area shape="rect" id="Node000016" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_invalid_configuration_exception.html" title="Occurs when a required dependency is missing, the library is not initialized, or a misconfiguration a..." alt="" coords="637,367,873,392"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="527,471,558,464,588,452,603,440,611,428,620,415,636,402,666,390,669,395,639,407,624,418,616,431,606,444,591,456,560,469,528,476"/>
+<area shape="rect" id="Node000017" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_math_error_exception.html" title="Occurs when a mathematical computation fails (e.g., division by zero or invalid matrix operations)." alt="" coords="671,416,839,441"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="527,464,679,439,680,444,528,469"/>
+<area shape="rect" id="Node000018" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_mismatch_exception.html" title="Occurs when input parameters do not match expected conditions (e.g., two input images have different ..." alt="" coords="671,465,839,491"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="528,475,671,475,671,481,528,481"/>
+<area shape="rect" id="Node000019" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_not_possible_exception.html" title="Occurs when an operation cannot be performed due to logical constraints (e.g., camera calibration wit..." alt="" coords="664,515,847,540"/>
+<area shape="poly" id="edge18_Node000012_Node000019" title=" " alt="" coords="528,487,680,512,679,517,527,492"/>
+<area shape="rect" id="Node000020" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_not_supported_exception.html" title="Occurs when a requested operation is not implemented or supported (e.g., exporting to an unsupported ..." alt="" coords="658,564,853,589"/>
+<area shape="poly" id="edge19_Node000012_Node000020" title=" " alt="" coords="500,494,564,523,638,550,682,561,680,567,637,555,562,528,498,499"/>
+<area shape="rect" id="Node000021" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_null_pointer_exception.html" title="Occurs when attempting to access an object or value via an uninitialized or null pointer." alt="" coords="667,613,844,639"/>
+<area shape="poly" id="edge20_Node000012_Node000021" title=" " alt="" coords="487,498,552,550,594,577,638,600,672,611,670,616,636,604,592,581,549,554,484,502"/>
+<area shape="rect" id="Node000022" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_out_of_range_exception.html" title="Occurs when a provided value falls outside the allowed valid range." alt="" coords="663,663,847,688"/>
+<area shape="poly" id="edge21_Node000012_Node000022" title=" " alt="" coords="480,500,507,534,544,575,589,616,639,649,666,660,664,665,636,654,585,620,540,579,503,538,476,504"/>
+<area shape="rect" id="Node000023" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_icv_target_not_found_exception.html" title="Occurs when an expected target object (e.g., calibration plate or marker) is not detected in the inpu..." alt="" coords="652,712,859,737"/>
+<area shape="poly" id="edge22_Node000012_Node000023" title=" " alt="" coords="476,502,500,546,537,600,583,654,610,678,639,698,662,709,660,714,636,703,606,682,579,657,532,603,496,549,471,505"/>
+</map>

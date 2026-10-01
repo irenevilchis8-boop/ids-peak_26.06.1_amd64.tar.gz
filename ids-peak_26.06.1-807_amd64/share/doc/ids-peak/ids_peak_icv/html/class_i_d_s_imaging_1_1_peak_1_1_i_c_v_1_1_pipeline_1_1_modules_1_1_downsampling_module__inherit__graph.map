@@ -1,0 +1,13 @@
+<map id="DownsamplingModule" name="DownsamplingModule">
+<area shape="rect" id="Node000001" title="Downsampling is used to decrease the image size." alt="" coords="97,225,264,251"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_modules_1_1_module_base.html" title="Base class for all pipeline modules." alt="" coords="6,152,107,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,182,160,223,158,227,89,187"/>
+<area shape="rect" id="Node000003" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_pipeline_1_1_modules_1_1_i_module.html" title="Interface for a module used within a pipeline." alt="" coords="20,79,93,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,118,59,152,54,152,54,118"/>
+<area shape="rect" id="Node000004" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_serialization_1_1_i_serializable.html" title="Interface for objects that can be serialized to and deserialized from an archive." alt="" coords="5,5,108,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="59,44,59,78,54,78,54,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="131,152,230,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,191,183,225,178,225,178,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="255,152,381,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="283,186,206,227,204,223,281,181"/>
+</map>

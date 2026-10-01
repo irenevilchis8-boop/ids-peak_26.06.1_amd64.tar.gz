@@ -1,0 +1,21 @@
+var group__ids__peak__library =
+[
+    [ "peak::Library", "classpeak_1_1_library.html", [
+      [ "Close", "classpeak_1_1_library.html#a8a0c9af08e6730cf75927929f5badf6c", null ],
+      [ "Initialize", "classpeak_1_1_library.html#a586cf328f43ab2fbfa836d7f726508fc", null ],
+      [ "Version", "classpeak_1_1_library.html#ae15ee8b228bd73120f4d15a854f8eb84", null ]
+    ] ],
+    [ "peak::core::Version", "classpeak_1_1core_1_1_version.html", [
+      [ "Version", "classpeak_1_1core_1_1_version.html#a8c93aa5d028dc1a90a918ff08be59dbc", null ],
+      [ "Version", "classpeak_1_1core_1_1_version.html#a5827dd6f75370e7f69320e3414b13f56", null ],
+      [ "~Version", "classpeak_1_1core_1_1_version.html#a8fdfd8f270161982c7421891c6749958", null ],
+      [ "Version", "classpeak_1_1core_1_1_version.html#aef61e07c366e6757fab5cdbb5bd9ba8e", null ],
+      [ "Version", "classpeak_1_1core_1_1_version.html#a96d5150fa2006f0c680078904d8d35c1", null ],
+      [ "Major", "classpeak_1_1core_1_1_version.html#a0239474664c600abe858c2c887976d87", null ],
+      [ "Minor", "classpeak_1_1core_1_1_version.html#aa6b0da7bf6c0dbbc5f91d7d0cb84dd96", null ],
+      [ "operator=", "classpeak_1_1core_1_1_version.html#af134ae51f716a7c606e947b86f15a714", null ],
+      [ "operator=", "classpeak_1_1core_1_1_version.html#a6d5f17cb64eaacd6060cb17f5d3e0911", null ],
+      [ "Subminor", "classpeak_1_1core_1_1_version.html#a4bf1f70710268266a1823c4bde903145", null ],
+      [ "ToString", "classpeak_1_1core_1_1_version.html#a829a505fca34f67dccdd97c800fae8ef", null ]
+    ] ]
+];

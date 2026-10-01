@@ -1,0 +1,11 @@
+<map id="NotPossibleException" name="NotPossibleException">
+<area shape="rect" id="Node000001" title="Occurs when an operation cannot be performed due to logical constraints (e.g., camera calibration wit..." alt="" coords="5,299,168,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="43,225,130,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,264,89,298,84,298,84,264"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="43,152,130,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,191,89,225,84,225,84,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,79,142,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,118,89,152,84,152,84,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="43,5,130,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,44,89,78,84,78,84,44"/>
+</map>

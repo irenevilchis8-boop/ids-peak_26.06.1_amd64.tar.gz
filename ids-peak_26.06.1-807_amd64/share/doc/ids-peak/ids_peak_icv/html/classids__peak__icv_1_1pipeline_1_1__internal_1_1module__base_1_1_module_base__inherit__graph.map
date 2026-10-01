@@ -1,0 +1,29 @@
+<map id="ModuleBase" name="ModuleBase">
+<area shape="rect" id="Node000001" title="Base class for all pipeline modules." alt="" coords="127,267,228,293"/>
+<area shape="rect" id="Node000004" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1color__matrix__transformation__module_1_1_color_matrix_transformation_module.html" title="Color matrix transformation is an image pipeline module that applies a color correction matrix to an ..." alt="" coords="289,5,483,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,253,189,210,207,157,235,103,253,77,274,55,292,43,295,48,278,59,257,81,239,105,212,159,194,212,184,255"/>
+<area shape="rect" id="Node000005" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1debayer__module_1_1_debayer_module.html" title="Debayer is an image pipeline module that converts Bayer RAW images into standard color formats." alt="" coords="324,70,448,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,253,194,219,214,179,240,138,274,105,298,92,323,84,325,90,300,97,278,109,244,142,218,181,199,221,187,255"/>
+<area shape="rect" id="Node000006" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1downsampling__module_1_1_downsampling_module.html" title="Downsampling is used to decrease the image size." alt="" coords="303,119,469,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,254,222,203,246,176,275,154,301,141,304,146,277,158,250,180,226,206,192,257"/>
+<area shape="rect" id="Node000007" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1gain__module_1_1_gain_module.html" title="Gain is an image pipeline module that applies gain correction to an image." alt="" coords="337,169,435,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,256,233,228,275,203,305,192,336,185,337,190,307,197,277,208,236,233,202,260"/>
+<area shape="rect" id="Node000008" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1hotpixel__correction__module_1_1_hotpixel_correction_module.html" title="Hotpixel correction is an image pipeline module for detecting and correcting hot pixels in camera ima..." alt="" coords="291,218,481,243"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="238,261,275,252,325,241,327,246,277,257,239,266"/>
+<area shape="rect" id="Node000009" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1mono__conversion__module_1_1_mono_conversion_module.html" title="Mono conversion is an image pipeline module that converts images to a monochrome format." alt="" coords="297,267,475,293"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="242,277,297,277,297,283,242,283"/>
+<area shape="rect" id="Node000010" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1pixelformat__conversion__module_1_1_pixel_format_conversion_module.html" title="Pixel format conversion module that transforms images to a specified output pixel format." alt="" coords="276,317,496,342"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="242,293,277,301,331,314,329,319,275,307,241,298"/>
+<area shape="rect" id="Node000011" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1sharpening__module_1_1_sharpening_module.html" title="Sharpening is an image pipeline module that applies a sharpening filter to enhance image detail." alt="" coords="315,366,457,391"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="202,300,236,327,277,352,315,365,313,370,275,357,233,332,198,304"/>
+<area shape="rect" id="Node000012" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1tone__curve__correction__module_1_1_tone_curve_correction_module.html" title="A pipeline module for applying tone curve corrections such as gamma adjustment and digital black offs..." alt="" coords="284,415,488,441"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="192,303,226,354,250,380,277,402,301,413,299,418,275,406,246,384,222,357,188,306"/>
+<area shape="rect" id="Node000013" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1transformation__module_1_1_transformation_module.html" title="Transformation is an image pipeline module that provides mirror and rotation functionality." alt="" coords="303,465,469,490"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="187,305,199,339,218,379,244,418,278,451,303,465,301,469,274,455,240,422,214,381,194,341,182,307"/>
+<area shape="rect" id="Node000014" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1unpack__module_1_1_unpack_module.html" title="Unpack is an image pipeline module that converts packed pixel formats into corresponding unpacked Bay..." alt="" coords="327,514,445,539"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="184,306,193,349,211,402,238,456,256,480,278,501,301,514,327,521,325,526,299,519,274,505,252,483,234,459,206,404,188,350,179,307"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,242,79,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,261,127,268,126,273,92,267"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="17,291,67,317"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,295,126,286,127,292,81,300"/>
+</map>

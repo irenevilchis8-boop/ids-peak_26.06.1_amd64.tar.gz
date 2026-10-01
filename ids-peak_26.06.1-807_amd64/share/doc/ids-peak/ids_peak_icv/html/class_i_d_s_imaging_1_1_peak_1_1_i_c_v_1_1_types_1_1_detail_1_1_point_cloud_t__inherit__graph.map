@@ -1,0 +1,9 @@
+<map id="PointCloudT&lt; TPoint &gt;" name="PointCloudT&lt; TPoint &gt;">
+<area shape="rect" id="Node000001" title="Represents a point cloud." alt="" coords="37,152,208,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_detail_1_1_point_cloud.html" title="Represents the base for all point clouds." alt="" coords="77,79,169,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,118,125,152,120,152,120,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,104,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,39,112,76,109,80,74,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="129,5,255,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="172,43,137,80,133,76,169,39"/>
+</map>

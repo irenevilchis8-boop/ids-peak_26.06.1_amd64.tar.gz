@@ -1,0 +1,9 @@
+<map id="HotpixelCorrectionModule" name="HotpixelCorrectionModule">
+<area shape="rect" id="Node000001" title="Hotpixel correction is an image pipeline module for detecting and correcting hot pixels in camera ima..." alt="" coords="5,152,196,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1module__base_1_1_module_base.html" title="Base class for all pipeline modules." alt="" coords="50,79,151,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,5,95,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,41,95,77,91,80,70,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="119,5,168,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,44,111,80,106,77,127,41"/>
+</map>

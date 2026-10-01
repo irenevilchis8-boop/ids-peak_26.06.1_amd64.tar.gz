@@ -1,0 +1,9 @@
+<map id="Image" name="Image">
+<area shape="rect" id="Node000001" title="For detailed information about the use of ids_peak_icv Image refer to the Image Guide." alt="" coords="113,93,175,119"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1icv_1_1_undistorted_image.html" title="Represents an image that has undergone undistortion." alt="" coords="5,167,144,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,131,89,168,85,164,121,127"/>
+<area shape="rect" id="Node000004" href="$classpeak_1_1icv_1_1_x_y_z_image.html" title="Represents a three&#45;channel image encoding cartesian coordinates (x, y, z) of a 3D point." alt="" coords="169,167,258,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,127,203,164,199,168,164,131"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1detail_1_1_i_backend_accessible.html" title=" " alt="" coords="69,5,219,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,59,147,93,141,93,141,59"/>
+</map>

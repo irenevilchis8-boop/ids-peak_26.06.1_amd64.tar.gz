@@ -1,0 +1,9 @@
+<map id="TransformationModule" name="TransformationModule">
+<area shape="rect" id="Node000001" title="Transformation is an image pipeline module that provides mirror and rotation functionality." alt="" coords="5,152,172,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1module__base_1_1_module_base.html" title="Base class for all pipeline modules." alt="" coords="38,79,139,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,118,91,152,86,152,86,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="9,5,83,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,41,83,77,79,80,58,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="107,5,156,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="119,44,99,80,94,77,115,41"/>
+</map>

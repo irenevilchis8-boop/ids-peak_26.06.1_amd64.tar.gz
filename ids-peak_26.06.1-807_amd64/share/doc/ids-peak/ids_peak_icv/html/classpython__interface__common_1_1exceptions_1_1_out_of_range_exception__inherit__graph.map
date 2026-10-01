@@ -1,0 +1,7 @@
+<map id="OutOfRangeException" name="OutOfRangeException">
+<area shape="rect" id="Node000001" title="Thrown when a parameter is outside the valid range." alt="" coords="5,152,171,177"/>
+<area shape="rect" id="Node000002" href="$classpython__interface__common_1_1exceptions_1_1_common_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="15,79,161,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,118,91,152,85,152,85,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,5,131,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,44,91,78,85,78,85,44"/>
+</map>

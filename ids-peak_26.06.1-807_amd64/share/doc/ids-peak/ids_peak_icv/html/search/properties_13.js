@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['value_0',['Value',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_painting_1_1_opacity.html#ab54ab7f1a09314e56ef1b57ea03d708b',1,'IDSImaging.Peak.ICV.Painting.Opacity.Value'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_digital_black_feature.html#a4233143a2af04acfac45e32b7b36eef7',1,'IDSImaging.Peak.ICV.Pipeline.Features.DigitalBlackFeature.Value'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_gamma_feature.html#a4233143a2af04acfac45e32b7b36eef7',1,'IDSImaging.Peak.ICV.Pipeline.Features.GammaFeature.Value'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_saturation_feature.html#a4233143a2af04acfac45e32b7b36eef7',1,'IDSImaging.Peak.ICV.Pipeline.Features.SaturationFeature.Value']]],
+  ['valuetype_1',['ValueType',['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_metadata_key.html#a5f3cc27e5dda952a11e509b77bac92a7',1,'IDSImaging::Peak::Common::Types::MetadataKey']]],
+  ['version_2',['Version',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_modules_1_1_module_base.html#aa2443ae43ee2bc6f5074ffb41a3b08dc',1,'IDSImaging::Peak::ICV::Pipeline::Modules::ModuleBase']]],
+  ['views_3',['Views',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_algorithms_1_1_calibration_1_1_calibration_result.html#a92cc848bb9d2e5239441808619d5cf43',1,'IDSImaging::Peak::ICV::Algorithms::Calibration::CalibrationResult']]]
+];

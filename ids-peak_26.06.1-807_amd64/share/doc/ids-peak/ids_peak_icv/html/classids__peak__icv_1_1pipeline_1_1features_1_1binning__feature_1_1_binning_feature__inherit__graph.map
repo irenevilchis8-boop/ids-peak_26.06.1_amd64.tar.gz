@@ -1,0 +1,7 @@
+<map id="BinningFeature" name="BinningFeature">
+<area shape="rect" id="Node000001" title="Binning is used to decrease the image size." alt="" coords="5,152,124,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1features_1_1ifeature_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="27,79,102,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,118,67,152,62,152,62,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,5,89,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,44,67,78,62,78,62,44"/>
+</map>

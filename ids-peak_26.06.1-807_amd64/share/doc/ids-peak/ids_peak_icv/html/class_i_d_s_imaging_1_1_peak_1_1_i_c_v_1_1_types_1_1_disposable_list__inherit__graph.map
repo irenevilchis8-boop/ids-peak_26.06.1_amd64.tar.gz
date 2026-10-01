@@ -1,0 +1,7 @@
+<map id="DisposableList&lt; T &gt;" name="DisposableList&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A list that automatically calls IDisposable.Dispose on all its elements when disposed." alt="" coords="27,79,181,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,88,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,40,96,77,92,80,63,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="112,5,211,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,43,116,80,112,77,141,40"/>
+</map>

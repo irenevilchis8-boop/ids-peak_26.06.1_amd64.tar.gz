@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['length_0',['Length',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_algorithms_1_1_calibration_1_1_reprojection_error.html#a165133c1c04da94d94cb485e8de7b99a',1,'IDSImaging::Peak::ICV::Algorithms::Calibration::ReprojectionError']]],
+  ['level_1',['Level',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_sharpening_feature.html#a820a03b1b35c104be66f9c6dc863c431',1,'IDSImaging.Peak.ICV.Pipeline.Features.SharpeningFeature.Level'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_modules_1_1_sharpening_module.html#a820a03b1b35c104be66f9c6dc863c431',1,'IDSImaging.Peak.ICV.Pipeline.Modules.SharpeningModule.Level']]],
+  ['levelrange_2',['LevelRange',['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_features_1_1_sharpening_feature.html#ae674001c8bb76facef964c8828fa1fe4',1,'IDSImaging.Peak.ICV.Pipeline.Features.SharpeningFeature.LevelRange'],['../class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_modules_1_1_sharpening_module.html#ae674001c8bb76facef964c8828fa1fe4',1,'IDSImaging.Peak.ICV.Pipeline.Modules.SharpeningModule.LevelRange']]],
+  ['linestartoffset_3',['LineStartOffset',['../interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_i_image_view.html#a0b66fc637513e88ba890022570bfa2f1',1,'IDSImaging.Peak.Common.Types.IImageView.LineStartOffset'],['../class_i_d_s_imaging_1_1_peak_1_1_common_1_1_types_1_1_image_view_base.html#a0b66fc637513e88ba890022570bfa2f1',1,'IDSImaging.Peak.Common.Types.ImageViewBase.LineStartOffset']]]
+];

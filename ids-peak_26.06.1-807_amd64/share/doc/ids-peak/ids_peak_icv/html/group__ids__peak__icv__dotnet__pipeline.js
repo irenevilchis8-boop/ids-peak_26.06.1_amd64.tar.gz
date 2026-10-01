@@ -1,0 +1,35 @@
+var group__ids__peak__icv__dotnet__pipeline =
+[
+    [ "Pipeline Features", "group__ids__peak__icv__dotnet__pipeline__features.html", "group__ids__peak__icv__dotnet__pipeline__features" ],
+    [ "Pipeline Modules", "group__ids__peak__icv__dotnet__pipeline__modules.html", "group__ids__peak__icv__dotnet__pipeline__modules" ],
+    [ "Special Pipeline Types", "group__ids__peak__icv__dotnet__pipeline__types.html", "group__ids__peak__icv__dotnet__pipeline__types" ],
+    [ "DefaultPipeline", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html", [
+      [ "DefaultPipeline", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#ab573864991d48a39c2254616691a3859", null ],
+      [ "Dispose", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a6e2d745cdb7a7b983f861ed6a9a541a7", null ],
+      [ "ExportSettingsToFile", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a4e6247b4d7342ee251e29f486298233e", null ],
+      [ "ExportSettingsToString", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a83a4d7e4f48c267c69242fcab188527b", null ],
+      [ "ImportSettingsFromFile", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#ac6579a0ca3fb223eba18a444bf397d9b", null ],
+      [ "ImportSettingsFromString", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#af55ba3b6df84c322356af1807bd55518", null ],
+      [ "Process", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a3ed37ffc4d450e04974f54a79d3ae9da", null ],
+      [ "Process", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a4164e136f24b04f18d59ccfdec9ddf0d", null ],
+      [ "Process", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a61378d21669d1d78e28bf47f23dad627", null ],
+      [ "ReleaseBuffers", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a59042a50221151b2fc864b274a834b4e", null ],
+      [ "ResetToDefault", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a5b51949e14ba1703e7ab6a4cad5696bf", null ],
+      [ "AutoFeatureModule", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a1ec13eb8c46a341215c386122607ea74", null ],
+      [ "Binning", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a1c3c570338388fe4819c71db10e12889", null ],
+      [ "ChromaticAdaption", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#aac333449c5b1338ac73ddf912ccf1e5b", null ],
+      [ "ColorCorrection", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a59dace7a8451bfa9eb24b43618ab8b50", null ],
+      [ "Decimation", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a2496aadde06c04d243017b0d2177fc41", null ],
+      [ "DigitalBlack", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a7c7dcefde50bd56c436cb5f128a2f1b5", null ],
+      [ "Gain", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#aead4115d9cc9147e46819c26e8fa82c3", null ],
+      [ "Gamma", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a4989b8798fb45866e4750961d865c567", null ],
+      [ "Hotpixel", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#aa054b3240e108db4cd92d1b035d7e357", null ],
+      [ "Mirror", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#ad491aceefe1f7e55e5cb5a6ddeb79eb2", null ],
+      [ "OutputPixelFormat", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a93146f8564049e08cd951b3027a52b7a", null ],
+      [ "ProcessingPolicy", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a52ae45771e1e16c3f51889db2386ae8d", null ],
+      [ "Rotation", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#afb3003601d7acd35ddceaede45d82687", null ],
+      [ "Saturation", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a60ee0161bb97749ed43a4a8aedfdca8d", null ],
+      [ "Sharpening", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a10edd6222525a9f250814a360c5ca1a1", null ],
+      [ "TypeId", "class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_pipeline_1_1_default_pipeline.html#a7eb4386f8b145fc9b73fa8abdf8e6de4", null ]
+    ] ]
+];

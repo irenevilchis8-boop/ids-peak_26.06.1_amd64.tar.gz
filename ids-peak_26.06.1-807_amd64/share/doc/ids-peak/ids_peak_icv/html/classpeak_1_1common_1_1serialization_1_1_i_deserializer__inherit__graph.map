@@ -1,0 +1,5 @@
+<map id="IDeserializer" name="IDeserializer">
+<area shape="rect" id="Node000001" title="Interface for deserializing structured data from an input stream into an archive." alt="" coords="5,5,109,31"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_deserializer.html" title="Deserializer for reading serialized data and converting it into an IArchive object." alt="" coords="7,79,107,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,44,60,78,55,78,55,44"/>
+</map>

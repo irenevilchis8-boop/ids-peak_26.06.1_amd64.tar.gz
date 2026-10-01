@@ -1,0 +1,5 @@
+<map id="GainFeature" name="GainFeature">
+<area shape="rect" id="Node000001" title="The GainFeature applies gain to the image." alt="" coords="5,79,105,104"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1pipeline_1_1features_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="18,5,93,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,44,58,78,53,78,53,44"/>
+</map>

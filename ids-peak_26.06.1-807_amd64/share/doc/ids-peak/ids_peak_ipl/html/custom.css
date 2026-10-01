@@ -1,0 +1,77 @@
+:root {
+  --custom-sidebar-width: px;
+  --font-family: Arial, sans-serif;
+}
+
+html.dark-mode {
+
+    --primary-color: #008A96;
+
+    --warning-color: #3b2e04;
+    --warning-color-dark: #f1b602;
+    --warning-color-darker: #fff0c5;
+    --note-color: #122c40;
+    --note-color-dark: #1982D2;
+    --note-color-darker: #dcf0fa;
+    --todo-color: #2a2536;
+    --todo-color-dark: #7661b3;
+    --todo-color-darker: #ae9ed6;
+    --bug-color: #2e1917;
+    --bug-color-dark: #ad2617;
+    --bug-color-darker: #f5b1aa;
+    --fragment-comment: #969696;
+
+    dl.note a {
+        filter: brightness(120%);
+    }
+}
+
+html {
+    /* light mode */
+
+    --primary-color: #008A96;
+
+    --warning-color: #faf3d8;
+    --warning-color-dark: #f3a600;
+    --warning-color-darker: #5f4204;
+    --note-color: #e4f3ff;
+    --note-color-dark: #1879C4;
+    --note-color-darker: #274a5c;
+    --todo-color: #e4dafd;
+    --todo-color-dark: #5b2bdd;
+    --todo-color-darker: #2a0d72;
+    --bug-color: #f8d1cc;
+    --bug-color-dark: #b61825;
+    --bug-color-darker: #75070f;
+    --fragment-comment: #7b4053;
+}
+
+html.dark-mode .logo-invert {
+    /* invert just the colored part then invert everything, so we turn the
+              * black into white but keep the same color */
+             filter: hue-rotate(180deg) invert(1);
+}
+
+#MSearchResultsWindow {
+    width: auto !important;
+    max-width: 60vw;
+    padding-right: .5em;
+}
+
+#main-menu > li:not([id]) {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    #main-menu > li:not([id]) {
+        display: block;
+    }
+}
+
+a:hover {
+ background: none;
+}
+
+a:hover > span.arrow {
+    background: none;
+}

@@ -1,0 +1,7 @@
+<map id="GainFeature" name="GainFeature">
+<area shape="rect" id="Node000001" title="Gain is an image pipeline feature that applies gain correction to an image." alt="" coords="5,152,105,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1features_1_1ifeature_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="18,79,93,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,118,58,152,53,152,53,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="31,5,80,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,44,58,78,53,78,53,44"/>
+</map>

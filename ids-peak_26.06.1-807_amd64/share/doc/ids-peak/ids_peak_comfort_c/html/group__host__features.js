@@ -1,0 +1,25 @@
+var group__host__features =
+[
+    [ "Pixel format", "group__host__pixelformat.html", "group__host__pixelformat" ],
+    [ "Gain", "group__host__gain.html", "group__host__gain" ],
+    [ "LUT", "group__host__lut.html", "group__host__lut" ],
+    [ "Gamma", "group__host__gamma.html", "group__host__gamma" ],
+    [ "Digital Black", "group__host__digital__black.html", "group__host__digital__black" ],
+    [ "Color correction", "group__host__color__correction.html", "group__host__color__correction" ],
+    [ "Auto brightness control", "group__host__auto__brightness.html", "group__host__auto__brightness" ],
+    [ "Auto white balance control", "group__host__auto__white__balance.html", "group__host__auto__white__balance" ],
+    [ "Auto focus control", "group__host__auto__focus.html", "group__host__auto__focus" ],
+    [ "Hotpixel Correction", "group__host__hotpixel.html", "group__host__hotpixel" ],
+    [ "Mirror", "group__host__mirror.html", "group__host__mirror" ],
+    [ "Rotation", "group__host__rotation.html", "group__host__rotation" ],
+    [ "Binning", "group__host__binning.html", "group__host__binning" ],
+    [ "Decimation", "group__host__decimation.html", "group__host__decimation" ],
+    [ "Sharpness measurement", "group__sharpness__measure.html", "group__sharpness__measure" ],
+    [ "Edge Enhancement", "group__host__edge__enhancement.html", "group__host__edge__enhancement" ],
+    [ "Video", "group__video.html", "group__video" ],
+    [ "ImageWriter", "group__imagewriter.html", "group__imagewriter" ],
+    [ "Histogram", "group__histogram.html", "group__histogram" ],
+    [ "peak_IPL_ProcessFrame", "group__host__features.html#ga388774ded7646ad5ff7c6d93f4cf2e36", null ],
+    [ "peak_IPL_ProcessFrameInplace", "group__host__features.html#gaf943db9e019ae35b06b37b7bda35076a", null ],
+    [ "peak_IPL_ReadImage", "group__host__features.html#ga28969cbd5cc3b8fb7aa065c5daaca46f", null ]
+];

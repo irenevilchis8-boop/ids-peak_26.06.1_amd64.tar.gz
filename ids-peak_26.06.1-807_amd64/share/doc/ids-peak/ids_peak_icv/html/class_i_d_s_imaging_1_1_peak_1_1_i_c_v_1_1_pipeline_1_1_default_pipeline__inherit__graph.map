@@ -1,0 +1,9 @@
+<map id="DefaultPipeline" name="DefaultPipeline">
+<area shape="rect" id="Node000001" title="Image processing pipeline for sequential transformation of raw image frames." alt="" coords="60,152,183,177"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_pipeline_1_1_pipeline_base.html" title="Base class for implementing a custom pipeline." alt="" coords="5,79,112,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,113,112,150,108,153,76,116"/>
+<area shape="rect" id="Node000003" href="$interface_i_d_s_imaging_1_1_peak_1_1_common_1_1_pipeline_1_1_i_pipeline.html" title="Interface defining the structure and behavior of a processing pipeline." alt="" coords="19,5,98,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,44,61,78,56,78,56,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="136,79,235,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,116,135,153,131,150,163,113"/>
+</map>

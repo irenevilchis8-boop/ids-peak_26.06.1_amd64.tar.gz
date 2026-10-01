@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/qml">
+        <file alias="Dialog_Error.qml">qml6/Dialog_Error.qml</file>
+        <file alias="Dialog_Folder.qml">qml6/Dialog_Folder.qml</file>
+        <file alias="Dialog_RoiSize.qml">qml6/Dialog_RoiSize.qml</file>
+        <file alias="Dialog_SaveChanges.qml">qml6/Dialog_SaveChanges.qml</file>
+        <file alias="Dialog_SequencerTrigger.qml">qml6/Dialog_SequencerTrigger.qml</file>
+        <file alias="main.qml">qml6/main.qml</file>
+        <file alias="PropertyContainer.qml">qml6/PropertyContainer.qml</file>
+        <file alias="PropertyControl_CommandButton.qml">qml6/PropertyControl_CommandButton.qml</file>
+        <file alias="PropertyControl_EnumComboBox.qml">qml6/PropertyControl_EnumComboBox.qml</file>
+        <file alias="PropertyControl_FloatSlider.qml">qml6/PropertyControl_FloatSlider.qml</file>
+        <file alias="ToolTip.qml">qml6/ToolTip.qml</file>
+        <file alias="Window_Image.qml">qml6/Window_Image.qml</file>
+    </qresource>
+</RCC>

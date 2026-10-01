@@ -1,0 +1,5 @@
+<map id="IDrawable" name="IDrawable">
+<area shape="rect" id="Node000001" title="Base class for all drawables." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_types_1_1_region.html" title="Represents a region defined by a set of points in the image plane." alt="" coords="16,79,83,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,44,52,78,47,78,47,44"/>
+</map>

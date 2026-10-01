@@ -1,0 +1,7 @@
+<map id="IArchive" name="IArchive">
+<area shape="rect" id="Node000001" title="Represents a hierarchical, strongly&#45;typed key&#45;value archive." alt="" coords="19,5,94,31"/>
+<area shape="rect" id="Node000002" href="$class_i_d_s_imaging_1_1_peak_1_1_common_1_1_serialization_1_1_archive_base.html" title="Base class for IArchive implementations." alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,44,59,78,54,78,54,44"/>
+<area shape="rect" id="Node000003" href="$class_i_d_s_imaging_1_1_peak_1_1_i_c_v_1_1_serialization_1_1_archive.html" title="A key&#45;value store that implements the IArchive interface." alt="" coords="21,152,92,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,118,59,152,54,152,54,118"/>
+</map>

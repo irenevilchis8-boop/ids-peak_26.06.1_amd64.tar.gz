@@ -1,0 +1,14 @@
+<map id="IOException" name="IOException">
+<area shape="rect" id="Node000001" title="Occurs when a file operation fails (e.g., missing file, insufficient permissions, or inaccessible dir..." alt="" coords="57,299,157,324"/>
+<area shape="rect" id="Node000002" href="$classpeak_1_1icv_1_1_exception.html" title="Base class for all exceptions thrown by the IDS peak ICV library." alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,260,99,297,95,300,65,263"/>
+<area shape="rect" id="Node000003" href="$classpeak_1_1common_1_1_exception.html" title="Base class for all exceptions thrown by the library." alt="" coords="64,152,151,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,190,61,227,57,223,86,187"/>
+<area shape="rect" id="Node000006" href="$classpeak_1_1common_1_1_i_o_exception.html" title="Thrown when an input, output, file or device communication error occurs." alt="" coords="116,225,216,251"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="128,187,158,223,153,227,124,190"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="52,79,163,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,118,110,152,105,152,105,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="64,5,151,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,44,110,78,105,78,105,44"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,263,120,300,116,297,145,260"/>
+</map>

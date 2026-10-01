@@ -1,0 +1,9 @@
+<map id="ToneCurveCorrectionModule" name="ToneCurveCorrectionModule">
+<area shape="rect" id="Node000001" title="A pipeline module for applying tone curve corrections such as gamma adjustment and digital black offs..." alt="" coords="5,152,209,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1__internal_1_1module__base_1_1_module_base.html" title="Base class for all pipeline modules." alt="" coords="57,79,158,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,118,110,152,105,152,105,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="28,5,101,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,41,102,77,97,80,77,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="125,5,175,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="138,44,117,80,113,77,133,41"/>
+</map>

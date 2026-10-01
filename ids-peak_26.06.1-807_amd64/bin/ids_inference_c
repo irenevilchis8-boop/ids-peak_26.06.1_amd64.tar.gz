@@ -1,0 +1,14 @@
+#!/bin/bash
+
+[ "$0" != "${BASH_SOURCE[0]}" ] && SOURCED=1 || SOURCED=0
+PEAK_PATH="$(readlink -f "$(dirname "${BASH_SOURCE[0]}")")"
+
+export PEAK_PATH
+export LD_LIBRARY_PATH="$PEAK_PATH/../lib/x86_64-linux-gnu:$LD_LIBRARY_PATH"
+export GENICAM_GENTL32_PATH="$GENICAM_GENTL32_PATH:$PEAK_PATH/../lib/x86_64-linux-gnu/ids-peak/cti"
+export GENICAM_GENTL64_PATH="$GENICAM_GENTL64_PATH:$PEAK_PATH/../lib/x86_64-linux-gnu/ids-peak/cti"
+
+# workaround for wayland and custom window handling -> force xcb
+export QT_QPA_PLATFORM="xcb"
+
+[ "$SOURCED" -eq 0 ] && "$PEAK_PATH/../lib/x86_64-linux-gnu/ids-peak/bin/inference_c" "$@"

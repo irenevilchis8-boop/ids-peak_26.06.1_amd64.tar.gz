@@ -1,0 +1,7 @@
+<map id="RotationFeature" name="RotationFeature">
+<area shape="rect" id="Node000001" title="Rotation provides fixed&#45;angle rotation functionality." alt="" coords="5,152,129,177"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1pipeline_1_1features_1_1ifeature_1_1_i_feature.html" title="Abstract base class for all image processing pipeline features." alt="" coords="30,79,105,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,118,70,152,65,152,65,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="43,5,92,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,44,70,78,65,78,65,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Region" name="Region">
+<area shape="rect" id="Node000001" title="Represents a region consisting of a set of points in the image plane." alt="" coords="16,79,83,104"/>
+<area shape="rect" id="Node000002" href="$classids__peak__icv_1_1painting_1_1drawable_1_1_i_drawable.html" title="Interface for drawable objects." alt="" coords="5,5,93,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,44,52,78,47,78,47,44"/>
+</map>
